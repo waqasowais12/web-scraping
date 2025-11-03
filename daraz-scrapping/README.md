@@ -34,3 +34,9 @@ daraz-scrapping/
 ├── daraz_products.csv # Output file (after scraping)
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies 
+
+![1.png](snaps/1.png)
+
+![2.png](snaps/2.png)
+
+![3.png](snaps/3.png)
