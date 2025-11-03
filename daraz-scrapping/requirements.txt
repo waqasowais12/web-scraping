@@ -1,0 +1,6 @@
+selenium
+pandas
+matplotlib
+webdriver-manager
+
+pip install -r requirements.txt
