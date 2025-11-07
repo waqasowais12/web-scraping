@@ -1,0 +1,971 @@
+Author,Repository,Description,Language,Stars,Forks,Repo_URL,Last Updated
+josephmisiti,awesome-machine-learning,"A curated list of awesome Machine Learning frameworks, libraries and software.",Python,70.5k,,https://github.com/josephmisiti/awesome-machine-learning,8 days ago
+wepe,MachineLearning,Basic Machine Learning and Deep Learning,Python,5.6k,,https://github.com/wepe/MachineLearning,"on Jun 16, 2024"
+Jack-Cherish,Machine-Learning,⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归,Python,10k,3.2k,https://github.com/Jack-Cherish/Machine-Learning,"on Jul 12, 2024"
+lawlite19,MachineLearning_Python,机器学习算法python实现,Python,8.1k,5.1k,https://github.com/lawlite19/MachineLearning_Python,"on May 20, 2024"
+udacity,machine-learning,Content for Udacity's Machine Learning curriculum,Python,4k,2.5k,https://github.com/udacity/machine-learning,"on Feb 24, 2022"
+Azure,MachineLearningNotebooks,Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft,Python,4.3k,6.3k,https://github.com/Azure/MachineLearningNotebooks,on Mar 14
+lazyprogrammer,machine_learning_examples,A collection of machine learning examples and tutorials.,Python,8.7k,2.6k,https://github.com/lazyprogrammer/machine_learning_examples,on Sep 18
+trekhleb,homemade-machine-learning,🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained,Python,23.8k,6.4k,https://github.com/trekhleb/homemade-machine-learning,"on Nov 13, 2024"
+ujjwalkarn,Machine-Learning-Tutorials,"machine learning and deep learning tutorials, articles and other resources",Python,17.1k,4.1k,https://github.com/ujjwalkarn/Machine-Learning-Tutorials,"on Jun 12, 2024"
+ZuzooVn,machine-learning-for-software-engineers,A complete daily plan for studying to become a machine learning engineer.,Python,28.6k,3.9k,https://github.com/ZuzooVn/machine-learning-for-software-engineers,"on Jun 11, 2024"
+stefan-jansen,machine-learning-for-trading,"Code for Machine Learning for Algorithmic Trading, 2nd edition.",Jupyter Notebook,16k,6.2k,https://github.com/stefan-jansen/machine-learning-for-trading,"on Aug 19, 2024"
+Vay-keen,Machine-learning-learning-notes,周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！,Jupyter Notebook,7.6k,4.9k,https://github.com/Vay-keen/Machine-learning-learning-notes,"on Feb 26, 2022"
+rasbt,python-machine-learning-book,"The ""Python Machine Learning (1st edition)"" book code repository and info resource",Jupyter Notebook,12.5k,1.9k,https://github.com/rasbt/python-machine-learning-book,"on Nov 21, 2024"
+DataTalksClub,machine-learning-zoomcamp,Learn ML engineering for free in 4 months! Register here 👇🏼,Jupyter Notebook,12.2k,4.4k,https://github.com/DataTalksClub/machine-learning-zoomcamp,2 days ago
+allmachinelearning,MachineLearning,Machine learning resources,Jupyter Notebook,3.7k,2.8k,https://github.com/allmachinelearning/MachineLearning,"on Apr 1, 2024"
+aladdinpersson,Machine-Learning-Collection,A resource for learning about Machine learning & Deep Learning,Jupyter Notebook,8.3k,976,https://github.com/aladdinpersson/Machine-Learning-Collection,"on Aug 17, 2024"
+afshinea,stanford-cs-229-machine-learning,VIP cheatsheets for Stanford's CS 229 Machine Learning,Jupyter Notebook,18.7k,2.8k,https://github.com/afshinea/stanford-cs-229-machine-learning,"on May 20, 2020"
+susanli2016,Machine-Learning-with-Python,Python code for common Machine Learning Algorithms,Jupyter Notebook,4.5k,4.1k,https://github.com/susanli2016/Machine-Learning-with-Python,on Jun 5
+EthicalML,awesome-production-machine-learning,"A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",Jupyter Notebook,19.6k,4.8k,https://github.com/EthicalML/awesome-production-machine-learning,4 days ago
+khangich,machine-learning-interview,"Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",Jupyter Notebook,11.6k,2.5k,https://github.com/khangich/machine-learning-interview,"on Aug 31, 2023"
+tensorflow,tensorflow,An Open Source Machine Learning Framework for Everyone,C++,192k,1.9k,https://github.com/tensorflow/tensorflow,15 minutes ago
+scikit-learn,scikit-learn,scikit-learn: machine learning in Python,C++,63.9k,75k,https://github.com/scikit-learn/scikit-learn,6 hours ago
+trainindata,deploying-machine-learning-models,"Code for the online course ""Deployment of Machine Learning Models""",C++,870,26.4k,https://github.com/trainindata/deploying-machine-learning-models,"on Aug 20, 2024"
+greyhatguy007,Machine-Learning-Specialization-Coursera,Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Pro…,C++,6.4k,8.1k,https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera,"on Sep 29, 2024"
+roboticcam,machine-learning-notes,"My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(…",C++,8.7k,3.4k,https://github.com/roboticcam/machine-learning-notes,"on Sep 29, 2024"
+Fafa-DL,Lhy_Machine_Learning,李宏毅2021/2022/2023春季机器学习课程课件及作业,C++,6.9k,1.7k,https://github.com/Fafa-DL/Lhy_Machine_Learning,"on Jun 3, 2023"
+ashishpatel26,500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,500 AI Machine learning Deep learning Computer vision NLP Projects with code,C++,28.6k,1.7k,https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,on Aug 1
+jindongwang,MachineLearning,一些关于机器学习的学习资料与研究介绍,C++,2k,6.4k,https://github.com/jindongwang/MachineLearning,"on Nov 10, 2018"
+dive-into-machine-learning,dive-into-machine-learning,"Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)",C++,11.4k,628,https://github.com/dive-into-machine-learning/dive-into-machine-learning,"on Jun 18, 2022"
+firmai,financial-machine-learning,A curated list of practical financial machine learning tools and applications.,C++,8.2k,1.9k,https://github.com/firmai/financial-machine-learning,on Jan 3
+rasbt,machine-learning-book,Code Repository for Machine Learning with PyTorch and Scikit-Learn,Jupyter Notebook,4.8k,,https://github.com/rasbt/machine-learning-book,on Mar 16
+timzhang642,3D-Machine-Learning,A resource repository for 3D machine learning,Jupyter Notebook,10.1k,,https://github.com/timzhang642/3D-Machine-Learning,"on Jul 5, 2024"
+carefree0910,MachineLearning,Machine learning algorithms implemented by pure numpy,Jupyter Notebook,1.1k,1.8k,https://github.com/carefree0910/MachineLearning,"on Apr 17, 2023"
+alirezadir,Machine-Learning-Interviews,This repo is meant to serve as a guide for Machine Learning/AI technical interviews.,Jupyter Notebook,7.1k,723,https://github.com/alirezadir/Machine-Learning-Interviews,on Jun 24
+firmai,industry-machine-learning,A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai),Jupyter Notebook,7.4k,1.3k,https://github.com/firmai/industry-machine-learning,"on Oct 4, 2024"
+instillai,machine-learning-course,💬 Machine Learning Course with Python:,Jupyter Notebook,7.1k,1.2k,https://github.com/instillai/machine-learning-course,"on Nov 27, 2024"
+mrdbourke,machine-learning-roadmap,"A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",Jupyter Notebook,7.8k,1.3k,https://github.com/mrdbourke/machine-learning-roadmap,"on Dec 9, 2022"
+vivienzou1,DL-Notes-for-Interview,deep learning/ machine learning,Jupyter Notebook,365,1.2k,https://github.com/vivienzou1/DL-Notes-for-Interview,"on Feb 24, 2023"
+chiphuyen,machine-learning-systems-design,"A booklet on machine learning systems design with exercises. NOT the repo for the book ""Designing Machine Learning Systems"", which is `dm…",Jupyter Notebook,9.6k,8k,https://github.com/chiphuyen/machine-learning-systems-design,"on Apr 15, 2023"
+csuldw,MachineLearning,"Machine learning resources，including algorithm, paper, dataset, example and so on.",Jupyter Notebook,842,1.5k,https://github.com/csuldw/MachineLearning,"on Oct 19, 2019"
+deeplearning-ai,machine-learning-yearning-cn,Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著,CSS,7.8k,685,https://github.com/deeplearning-ai/machine-learning-yearning-cn,"on Oct 6, 2022"
+dformoso,machine-learning-mindmap,"A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.",CSS,6.2k,1.5k,https://github.com/dformoso/machine-learning-mindmap,"on May 30, 2020"
+Yorko,mlcourse.ai,Open Machine Learning Course,CSS,10.3k,1k,https://github.com/Yorko/mlcourse.ai,on Aug 26
+shuhuai007,Machine-Learning-Session,,CSS,5.2k,5.7k,https://github.com/shuhuai007/Machine-Learning-Session,"on Apr 13, 2020"
+JustFollowUs,Machine-Learning,,CSS,3.2k,1.1k,https://github.com/JustFollowUs/Machine-Learning,"on Apr 5, 2024"
+RedstoneWill,HsuanTienLin_MachineLearning,,CSS,2.8k,860,https://github.com/RedstoneWill/HsuanTienLin_MachineLearning,"on Mar 1, 2020"
+TarrySingh,Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep L…,CSS,3.9k,857,https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials,on Mar 19
+teddylee777,machine-learning,머신러닝 입문자 혹은 스터디를 준비하시는 분들에게 도움이 되고자 만든 repository입니다. (This repository is intented for helping whom are interested in machine learning st…,CSS,2.8k,1.6k,https://github.com/teddylee777/machine-learning,on Aug 13
+soulmachine,machine-learning-cheat-sheet,Classical equations and diagrams in machine learning,CSS,7.9k,903,https://github.com/soulmachine/machine-learning-cheat-sheet,"on Jul 31, 2024"
+kaieye,2022-Machine-Learning-Specialization,,CSS,4.6k,1.3k,https://github.com/kaieye/2022-Machine-Learning-Specialization,"on Aug 26, 2024"
+robertmartin8,MachineLearningStocks,Using python and scikit-learn to make stock predictions,Python,1.9k,1.7k,https://github.com/robertmartin8/MachineLearningStocks,"on Jun 18, 2024"
+tirthajyoti,Machine-Learning-with-Python,Practice and tutorial-style notebooks covering wide variety of machine learning techniques,Python,3.3k,533,https://github.com/tirthajyoti/Machine-Learning-with-Python,"on May 23, 2023"
+ddbourgin,numpy-ml,"Machine learning, in numpy",Python,16.2k,1.8k,https://github.com/ddbourgin/numpy-ml,"on Oct 29, 2023"
+ethen8181,machine-learning,🌎 machine learning tutorials (mainly in Python3),Python,3.4k,3.8k,https://github.com/ethen8181/machine-learning,on Jun 27
+ljpzzz,machinelearning,My blogs and code for machine learning. http://cnblogs.com/pinard,Python,8.6k,671,https://github.com/ljpzzz/machinelearning,"on Feb 16, 2024"
+Nyandwi,machine_learning_complete,"A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.",Python,5k,3.7k,https://github.com/Nyandwi/machine_learning_complete,"on Sep 23, 2023"
+llSourcell,Learn_Machine_Learning_in_3_Months,"This is the code for ""Learn Machine Learning in 3 Months"" by Siraj Raval on Youtube",Python,7.6k,827,https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months,"on Apr 2, 2024"
+tsyw,MachineLearningNotes,My personal notes,Python,1.8k,2.3k,https://github.com/tsyw/MachineLearningNotes,"on Feb 1, 2023"
+zotroneneis,machine_learning_basics,Plain python implementations of basic machine learning algorithms,Python,4.4k,443,https://github.com/zotroneneis/machine_learning_basics,"on Jun 27, 2024"
+jobbole,awesome-machine-learning-cn,机器学习资源大全中文版，包括机器学习领域的框架、库以及软件,Python,4.4k,834,https://github.com/jobbole/awesome-machine-learning-cn,"on Apr 3, 2024"
+rhiever,Data-Analysis-and-Machine-Learning-Projects,"Repository of teaching materials, code, and data for my data analysis and machine learning projects.",Jupyter Notebook,6.5k,1.3k,https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects,"on Jun 21, 2023"
+louisfb01,start-machine-learning,"A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2025 without ANY background in the field …",Jupyter Notebook,5k,2.1k,https://github.com/louisfb01/start-machine-learning,on Jun 2
+christianversloot,machine-learning-articles,"🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.",Jupyter Notebook,3.7k,669,https://github.com/christianversloot/machine-learning-articles,"on Jun 28, 2024"
+Sophia-11,Machine-Learning-Notes,周志华《机器学习》手推笔记,Jupyter Notebook,3.7k,769,https://github.com/Sophia-11/Machine-Learning-Notes,"on Mar 13, 2021"
+fengdu78,machine_learning_beginner,机器学习初学者公众号作品,Jupyter Notebook,2.3k,755,https://github.com/fengdu78/machine_learning_beginner,"on Mar 21, 2021"
+campusx-official,100-days-of-machine-learning,,Jupyter Notebook,2.1k,921,https://github.com/campusx-official/100-days-of-machine-learning,"on Oct 23, 2024"
+rasbt,python-machine-learning-book-2nd-edition,"The ""Python Machine Learning (2nd edition)"" book code repository and info resource",Jupyter Notebook,7.2k,2.2k,https://github.com/rasbt/python-machine-learning-book-2nd-edition,"on Oct 1, 2020"
+dipanjanS,practical-machine-learning-with-python,Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveragi…,Jupyter Notebook,2.4k,2.8k,https://github.com/dipanjanS/practical-machine-learning-with-python,"on Apr 1, 2024"
+https-deeplearning-ai,machine-learning-engineering-for-production-public,Public repo for DeepLearning.AI MLEP Specialization,Jupyter Notebook,1.9k,1.7k,https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public,"on Oct 28, 2024"
+13o-bbr-bbq,machine_learning_security,Source code about machine learning and security.,Jupyter Notebook,2.1k,2.4k,https://github.com/13o-bbr-bbq/machine_learning_security,"on Sep 2, 2022"
+Ayatans,Machine-Learning-homework,Matlab Coding homework for Machine Learning,MATLAB,2k,673,https://github.com/Ayatans/Machine-Learning-homework,"on Apr 28, 2020"
+hanmq,MachineLearning_Zhouzhihua_ProblemSets,"Exercises answers to the book ""machine-learning"" written by Zhou Zhihua。周志华《机器学习》课后习题，个人解答。各算法都拿numpy和pandas实现了一遍",MATLAB,1.6k,668,https://github.com/hanmq/MachineLearning_Zhouzhihua_ProblemSets,"on Oct 2, 2022"
+ivy-llc,ivy,Convert Machine Learning Code Between Frameworks,MATLAB,14.2k,449,https://github.com/ivy-llc/ivy,19 days ago
+rasbt,python-machine-learning-book-3rd-edition,"The ""Python Machine Learning (3rd edition)"" book code repository",MATLAB,4.9k,5.6k,https://github.com/rasbt/python-machine-learning-book-3rd-edition,"on Apr 19, 2023"
+jbagnato,machine-learning,"Código Python, Jupyter Notebooks, archivos csv con ejemplos para los ejercicios del Blog aprendemachinelearning.com y del libro Aprende M…",MATLAB,545,2.1k,https://github.com/jbagnato/machine-learning,on Sep 19
+krishnaik06,Machine-Learning-in-90-days,,MATLAB,1.4k,730,https://github.com/krishnaik06/Machine-Learning-in-90-days,"on Jan 14, 2023"
+neonwatty,machine-learning-refined,"Master the fundamentals of machine learning, deep learning, and mathematical optimization by building key concepts and models from scratc…",MATLAB,1.8k,1.6k,https://github.com/neonwatty/machine-learning-refined,on Jan 30
+krishnakumarsekar,awesome-quantum-machine-learning,"Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects arou…",MATLAB,3.1k,624,https://github.com/krishnakumarsekar/awesome-quantum-machine-learning,"on May 8, 2024"
+kubeflow,kubeflow,Machine Learning Toolkit for Kubernetes,MATLAB,15.3k,720,https://github.com/kubeflow/kubeflow,2 days ago
+jphall663,awesome-machine-learning-interpretability,A curated list of awesome responsible machine learning resources.,MATLAB,3.9k,2.6k,https://github.com/jphall663/awesome-machine-learning-interpretability,4 hours ago
+dotnet,machinelearning,ML.NET is an open source and cross-platform machine learning framework for .NET.,C#,9.3k,617,https://github.com/dotnet/machinelearning,2 days ago
+onnx,onnx,Open standard for machine learning interoperability,C#,19.8k,1.9k,https://github.com/onnx/onnx,yesterday
+aswintechguy,Machine-Learning-Projects,This repository contains mini projects in machine learning with notebook files,C#,1.2k,3.8k,https://github.com/aswintechguy/Machine-Learning-Projects,on Mar 14
+loveunk,machine-learning-deep-learning-notes,机器学习、深度学习的学习路径及知识总结,C#,2.2k,669,https://github.com/loveunk/machine-learning-deep-learning-notes,on Jan 26
+fengdu78,WZU-machine-learning-course,温州大学《机器学习》课程资料（代码、课件等）,C#,2k,366,https://github.com/fengdu78/WZU-machine-learning-course,on Sep 25
+lcdevelop,MachineLearningCourse,机器学习精简入门教程,C#,843,725,https://github.com/lcdevelop/MachineLearningCourse,"on Jul 18, 2022"
+Borye,machine-learning-coursera-1,This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course.,C#,1.1k,263,https://github.com/Borye/machine-learning-coursera-1,"on Jul 28, 2019"
+ty4z2008,Qix,Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang,C#,15k,897,https://github.com/ty4z2008/Qix,"on Jul 4, 2024"
+luispedro,BuildingMachineLearningSystemsWithPython,Source Code for the book Building Machine Learning Systems with Python,C#,2.1k,4.6k,https://github.com/luispedro/BuildingMachineLearningSystemsWithPython,"on Dec 25, 2020"
+src-d,awesome-machine-learning-on-source-code,Cool links & research papers related to Machine Learning applied to source code (MLonCode),C#,6.5k,1.4k,https://github.com/src-d/awesome-machine-learning-on-source-code,"on Dec 3, 2020"
+krasserm,bayesian-machine-learning,Notebooks about Bayesian methods for machine learning,Jupyter Notebook,1.9k,842,https://github.com/krasserm/bayesian-machine-learning,"on Mar 6, 2024"
+BindiChen,machine-learning,Practical Full-Stack Machine Learning,Jupyter Notebook,703,,https://github.com/BindiChen/machine-learning,"on Mar 29, 2023"
+LastAncientOne,Deep_Learning_Machine_Learning_Stock,Deep Learning and Machine Learning stocks represent promising opportunities for both long-term and short-term investors and traders.,Jupyter Notebook,1.7k,476,https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock,"on Mar 1, 2024"
+stedy,Machine-Learning-with-R-datasets,Formatted datasets for Machine Learning With R by Brett Lantz,Jupyter Notebook,657,367,https://github.com/stedy/Machine-Learning-with-R-datasets,"on Sep 24, 2018"
+lutzroeder,netron,"Visualizer for neural network, deep learning and machine learning models",Jupyter Notebook,31.7k,,https://github.com/lutzroeder/netron,3 hours ago
+sjwhitworth,golearn,Machine Learning for Go,Jupyter Notebook,9.4k,3k,https://github.com/sjwhitworth/golearn,"on Jan 15, 2024"
+xxg1413,MachineLearning,Machine Learning,Jupyter Notebook,402,1.2k,https://github.com/xxg1413/MachineLearning,"on Sep 30, 2020"
+atinesh,Coursera-Machine-Learning-Stanford,Machine learning-Stanford University,Jupyter Notebook,1.2k,249,https://github.com/atinesh/Coursera-Machine-Learning-Stanford,on Jan 29
+humphd,have-fun-with-machine-learning,An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks,Jupyter Notebook,5.1k,749,https://github.com/humphd/have-fun-with-machine-learning,"on Dec 19, 2021"
+shunliz,Machine-Learning,机器学习原理,Jupyter Notebook,1.4k,539,https://github.com/shunliz/Machine-Learning,on Aug 3
+dotnet,machinelearning-samples,"Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.",PowerShell,4.6k,300,https://github.com/dotnet/machinelearning-samples,"on Jul 27, 2024"
+pbharrin,machinelearninginaction,Source Code for the book: Machine Learning in Action published by Manning,PowerShell,2.4k,2.7k,https://github.com/pbharrin/machinelearninginaction,"on Feb 1, 2020"
+luwill,Machine_Learning_Code_Implementation,Mathematical derivation and pure Python code implementation of machine learning algorithms.,PowerShell,1.5k,1.8k,https://github.com/luwill/Machine_Learning_Code_Implementation,"on Sep 18, 2024"
+JWarmenhoven,Coursera-Machine-Learning,Coursera Machine Learning - Python code,PowerShell,866,592,https://github.com/JWarmenhoven/Coursera-Machine-Learning,"on Oct 1, 2020"
+patchy631,machine-learning,,PowerShell,1.5k,531,https://github.com/patchy631/machine-learning,"on Nov 10, 2024"
+grananqvist,Awesome-Quant-Machine-Learning-Trading,Quant/Algorithm trading resources with an emphasis on Machine Learning,PowerShell,3.3k,286,https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading,on May 22
+aleju,imgaug,Image augmentation for machine learning experiments.,PowerShell,14.7k,606,https://github.com/aleju/imgaug,"on Jul 30, 2024"
+microsoft,Windows-Machine-Learning,Samples and Tools for Windows ML.,PowerShell,1.1k,2.5k,https://github.com/microsoft/Windows-Machine-Learning,on Aug 7
+xiaqunfeng,machine-learning-yearning,Translation of <Machine Learning Yearning> by Andrew NG,PowerShell,1.3k,447,https://github.com/xiaqunfeng/machine-learning-yearning,"on Aug 19, 2023"
+ggml-org,ggml,Tensor library for machine learning,PowerShell,13.4k,403,https://github.com/ggml-org/ggml,yesterday
+codeheroku,Introduction-to-Machine-Learning,This repo will house all our course material and code snippets from the Introduction to Machine Learning Class,Jupyter Notebook,439,1.4k,https://github.com/codeheroku/Introduction-to-Machine-Learning,"on Nov 28, 2020"
+DorsaRoh,Machine-Learning,ML from scratch,Jupyter Notebook,2.4k,909,https://github.com/DorsaRoh/Machine-Learning,on Aug 13
+EpistasisLab,tpot,A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.,Jupyter Notebook,10k,201,https://github.com/EpistasisLab/tpot,on Sep 12
+learnml,machine-learning-specialization,,Jupyter Notebook,575,1.6k,https://github.com/learnml/machine-learning-specialization,"on May 16, 2018"
+shsarv,Machine-Learning-Projects,This repository showcases a selection of machine learning projects undertaken to understand and master various ML concepts. Each project …,Jupyter Notebook,1.1k,543,https://github.com/shsarv/Machine-Learning-Projects,"on Dec 24, 2024"
+JerryKurata,MachineLearningWithPython,Starter files for Pluralsight course: Understanding Machine Learning with Python,Jupyter Notebook,260,404,https://github.com/JerryKurata/MachineLearningWithPython,"on Nov 30, 2023"
+WillKoehrsen,machine-learning-project-walkthrough,An implementation of a complete machine learning solution in Python on a real-world dataset. This project is meant to demonstrate how all…,Jupyter Notebook,1.2k,385,https://github.com/WillKoehrsen/machine-learning-project-walkthrough,"on Apr 29, 2023"
+girafe-ai,ml-course,Open Machine Learning course,Jupyter Notebook,3.4k,562,https://github.com/girafe-ai/ml-course,3 days ago
+mbeyeler,opencv-machine-learning,"M. Beyeler (2017). Machine Learning for OpenCV: Intelligent image processing with Python. Packt Publishing Ltd., ISBN 978-178398028-4.",Jupyter Notebook,819,1.3k,https://github.com/mbeyeler/opencv-machine-learning,"on Feb 17, 2023"
+kailashahirwar,cheatsheets-ai,Essential Cheat Sheets for deep learning and machine learning researchers https://medium.com/@kailashahirwar/essential-cheat-sheets-for-m…,Jupyter Notebook,15.4k,450,https://github.com/kailashahirwar/cheatsheets-ai,"on Oct 19, 2019"
+trekhleb,machine-learning-experiments,🤖 Interactive Machine Learning experiments: 🏋️models training + 🎨models demo,Jupyter Notebook,1.8k,3.4k,https://github.com/trekhleb/machine-learning-experiments,"on Nov 13, 2024"
+microsoft,ML-For-Beginners,"12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",Jupyter Notebook,78.6k,323,https://github.com/microsoft/ML-For-Beginners,12 days ago
+firmai,machine-learning-asset-management,Machine Learning in Asset Management (by @firmai),Jupyter Notebook,1.7k,18.2k,https://github.com/firmai/machine-learning-asset-management,"on Dec 17, 2021"
+WillKoehrsen,Machine-Learning-Projects,Machine Learning Experiments and Work,Jupyter Notebook,654,467,https://github.com/WillKoehrsen/Machine-Learning-Projects,"on Apr 29, 2023"
+dafish-ai,NTU-Machine-learning,台湾大学李宏毅老师机器学习,Jupyter Notebook,1.1k,492,https://github.com/dafish-ai/NTU-Machine-learning,"on Jul 15, 2019"
+bfortuner,ml-glossary,Machine learning glossary,Jupyter Notebook,3.1k,384,https://github.com/bfortuner/ml-glossary,"on Aug 8, 2024"
+masinoa,machine_learning,Python coded examples and documentation of machine learning algorithms.,Jupyter Notebook,609,733,https://github.com/masinoa/machine_learning,"on Oct 2, 2020"
+wolfparticle,machineLearningDeepLearning,李宏毅2021机器学习深度学习笔记PPT作业,Jupyter Notebook,586,347,https://github.com/wolfparticle/machineLearningDeepLearning,"on Jun 14, 2021"
+LeBron-Jian,MachineLearningNote,,Jupyter Notebook,503,125,https://github.com/LeBron-Jian/MachineLearningNote,"on Mar 25, 2024"
+krishnaik06,Complete-Data-Science-With-Machine-Learning-And-NLP-2024,,Jupyter Notebook,2.1k,213,https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024,"on Jul 10, 2024"
+RedditSota,state-of-the-art-result-for-machine-learning-problems,This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to …,Python,8.9k,2.5k,https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems,"on Jun 25, 2019"
+qiskit-community,qiskit-machine-learning,Quantum Machine Learning,Python,880,1.3k,https://github.com/qiskit-community/qiskit-machine-learning,10 hours ago
+DeqianBai,Hands-on-Machine-Learning,A series of Jupyter notebooks with Chinese comment that walk you through the fundamentals of Machine Learning and Deep Learning in python…,Python,1.5k,394,https://github.com/DeqianBai/Hands-on-Machine-Learning,"on Oct 3, 2022"
+Azure-Samples,Azure-MachineLearning-DataScience,,Python,412,442,https://github.com/Azure-Samples/Azure-MachineLearning-DataScience,"on Jun 29, 2019"
+aws-samples,machine-learning-samples,Sample applications built using AWS' Amazon Machine Learning.,Python,881,361,https://github.com/aws-samples/machine-learning-samples,"on Jan 28, 2021"
+ThinamXx,300Days__MachineLearningDeepLearning,I am sharing my Journey of 300DaysOfData in Machine Learning and Deep Learning.,Python,568,389,https://github.com/ThinamXx/300Days__MachineLearningDeepLearning,"on Sep 16, 2023"
+kubeflow,pipelines,Machine Learning Pipelines for Kubeflow,Python,4k,169,https://github.com/kubeflow/pipelines,1 hour ago
+ssusnic,Machine-Learning-Flappy-Bird,Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm,Python,1.8k,1.8k,https://github.com/ssusnic/Machine-Learning-Flappy-Bird,"on Dec 19, 2017"
+Spandan-Madan,DeepLearningProject,An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.,Python,4.8k,397,https://github.com/Spandan-Madan/DeepLearningProject,"on Jan 15, 2023"
+stas00,ml-engineering,Machine Learning Engineering Open Book,Python,15.6k,639,https://github.com/stas00/ml-engineering,9 days ago
+Mryangkaitong,python-Machine-learning,机器学习算法项目,Jupyter Notebook,988,957,https://github.com/Mryangkaitong/python-Machine-learning,"on Oct 15, 2021"
+liuyubobobo,Play-with-Machine-Learning-Algorithms,Code of my MOOC Course <Play with Machine Learning Algorithms>. Updated contents and practices are also included. 我在慕课网上的课程《Python3 入门机器学…,Jupyter Notebook,1.3k,345,https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms,"on Aug 22, 2022"
+Sroy20,machine-learning-interview-questions,This repository is to prepare for Machine Learning interviews.,Jupyter Notebook,1.6k,630,https://github.com/Sroy20/machine-learning-interview-questions,"on May 19, 2019"
+nfmcclure,tensorflow_cookbook,Code for Tensorflow Machine Learning Cookbook,Jupyter Notebook,6.3k,397,https://github.com/nfmcclure/tensorflow_cookbook,"on May 24, 2024"
+vaaaaanquish,Awesome-Rust-MachineLearning,"This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies,…",Jupyter Notebook,2.2k,2.4k,https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning,"on Sep 25, 2023"
+pennyliang,MachineLearning-C---code,using c++ code to show the example of machine learning,Jupyter Notebook,489,123,https://github.com/pennyliang/MachineLearning-C---code,"on Dec 14, 2017"
+Devtown-India,Python-and-Machine-Learning,6th Feb 2021,Jupyter Notebook,516,232,https://github.com/Devtown-India/Python-and-Machine-Learning,"on Dec 28, 2022"
+rieder91,MachineLearning,Exercises for the Stanford/Coursera Machine Learning Class,Jupyter Notebook,248,611,https://github.com/rieder91/MachineLearning,"on Jul 15, 2012"
+bangoc123,learn-machine-learning-in-two-months,Những kiến thức cần thiết để học tốt Machine Learning trong vòng 2 tháng. Essential Knowledge for learning Machine Learning in two months.,Jupyter Notebook,2.1k,189,https://github.com/bangoc123/learn-machine-learning-in-two-months,"on Oct 21, 2022"
+replicate,cog,Containers for machine learning,Jupyter Notebook,8.9k,673,https://github.com/replicate/cog,2 days ago
+aws-samples,aws-machine-learning-university-accelerated-nlp,Machine Learning University: Accelerated Natural Language Processing Class,Jupyter Notebook,2.4k,629,https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp,"on Oct 13, 2024"
+SharifiZarchi,Introduction_to_Machine_Learning,"Machine Learning Course, Sharif University of Technology",Jupyter Notebook,1.9k,632,https://github.com/SharifiZarchi/Introduction_to_Machine_Learning,7 hours ago
+Visualize-ML,Book7_Visualizations-for-Machine-Learning,Book_7_《机器学习》 | 鸢尾花书：从加减乘除到机器学习；欢迎批评指正,Jupyter Notebook,3.1k,344,https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning,"on Sep 11, 2024"
+ajaymache,machine-learning-yearning,Machine Learning Yearning book by 🅰️𝓷𝓭𝓻𝓮𝔀 🆖,Jupyter Notebook,1.1k,577,https://github.com/ajaymache/machine-learning-yearning,"on Dec 20, 2018"
+Jcharis,Machine-Learning-Web-Apps,"Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,etc)",Jupyter Notebook,571,302,https://github.com/Jcharis/Machine-Learning-Web-Apps,"on Oct 1, 2022"
+Sakura-gh,ML-notes,notes about machine learning,Jupyter Notebook,3.3k,567,https://github.com/Sakura-gh/ML-notes,"on Nov 22, 2021"
+haifengl,smile,Statistical Machine Intelligence & Learning Engine,Jupyter Notebook,6.3k,901,https://github.com/haifengl/smile,3 hours ago
+jivoi,awesome-ml-for-cybersecurity,Machine Learning for Cyber Security,Jupyter Notebook,7.9k,1.1k,https://github.com/jivoi/awesome-ml-for-cybersecurity,"on Aug 19, 2024"
+kyleskom,NBA-Machine-Learning-Sports-Betting,NBA sports betting using machine learning,Jupyter Notebook,1.5k,1.8k,https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting,9 days ago
+yuanxiaosc,Machine-Learning-Book,《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！,Jupyter Notebook,1.1k,503,https://github.com/yuanxiaosc/Machine-Learning-Book,"on Jun 7, 2020"
+coding-blocks-archives,machine-learning-online-2018,ML Online Course Repository. Course videos on online.codingblocks.com,Jupyter Notebook,348,271,https://github.com/coding-blocks-archives/machine-learning-online-2018,"on Oct 1, 2020"
+lijin-THU,notes-machine-learning,鉴于我没有时间继续写这个东西，这个项目暂时废止,Jupyter Notebook,854,649,https://github.com/lijin-THU/notes-machine-learning,"on Mar 24, 2017"
+lytforgood,MachineLearningTrick,Machine Learning Trick : GBDT_Feature Blending Stacking CascadeForest,Jupyter Notebook,371,314,https://github.com/lytforgood/MachineLearningTrick,"on Dec 8, 2017"
+svpino,ml.school,Machine Learning School,Jupyter Notebook,403,179,https://github.com/svpino/ml.school,3 days ago
+vugsus,coursera-machine-learning,Coursera's Machine Learning by Andrew Ng,Jupyter Notebook,347,1.2k,https://github.com/vugsus/coursera-machine-learning,"on May 27, 2021"
+CodingTrain,Machine-Learning,Examples and experiments around ML for upcoming Coding Train videos,Jupyter Notebook,1k,439,https://github.com/CodingTrain/Machine-Learning,"on May 25, 2021"
+zlotus,notes-LSJU-machine-learning,机器学习笔记,Jupyter Notebook,1k,195,https://github.com/zlotus/notes-LSJU-machine-learning,"on Jan 18, 2017"
+tdpetrou,Machine-Learning-Books-With-Python,"Chapter by Chapter notes, exercises and code for a variety of machine learning books using Python",Jupyter Notebook,940,389,https://github.com/tdpetrou/Machine-Learning-Books-With-Python,"on Nov 23, 2022"
+innovation-cat,Awesome-Federated-Machine-Learning,"Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond",Jupyter Notebook,2k,583,https://github.com/innovation-cat/Awesome-Federated-Machine-Learning,"on May 31, 2024"
+zhengjingwei,machine-learning-interview,算法工程师-机器学习面试题总结,Jupyter Notebook,1.6k,290,https://github.com/zhengjingwei/machine-learning-interview,"on Sep 26, 2019"
+yenchenlin,awesome-adversarial-machine-learning,A curated list of awesome adversarial machine learning resources,HTML,1.9k,216,https://github.com/yenchenlin/awesome-adversarial-machine-learning,"on Nov 26, 2020"
+offchan42,machine-learning-curriculum,💻 Learn to make machines learn so that you don't have to struggle to program them; The ultimate list,HTML,1.1k,286,https://github.com/offchan42/machine-learning-curriculum,"on Mar 3, 2024"
+kmario23,deep-learning-drizzle,"Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lect…",HTML,12.7k,253,https://github.com/kmario23/deep-learning-drizzle,"on Oct 19, 2024"
+wtsxDev,Machine-Learning-for-Cyber-Security,Curated list of tools and resources related to the use of machine learning for cyber security,HTML,1.5k,3k,https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security,"on Oct 1, 2020"
+MachineLearnia,Python-Machine-Learning,Tous les codes utilisés dans la série YouTube Python Spécial Machine Learning !,HTML,426,440,https://github.com/MachineLearnia/Python-Machine-Learning,on Mar 25
+vkosuri,CourseraMachineLearning,Coursera Machine Learning By Prof. Andrew Ng,HTML,726,375,https://github.com/vkosuri/CourseraMachineLearning,"on Aug 28, 2019"
+GreedyAIAcademy,Machine-Learning,讲解常见的机器学习算法,HTML,319,297,https://github.com/GreedyAIAcademy/Machine-Learning,"on Aug 4, 2020"
+harvard-edge,cs249r_book,Introduction to Machine Learning Systems,HTML,8.4k,297,https://github.com/harvard-edge/cs249r_book,6 minutes ago
+joanby,machinelearning-az,Repositorio del Curso de Machine Learning de la A a la Z con R y Python,HTML,499,854,https://github.com/joanby/machinelearning-az,on Jan 14
+christophM,interpretable-ml-book,Book about interpretable machine learning,HTML,5.1k,3.4k,https://github.com/christophM/interpretable-ml-book,on Apr 4
+andriygav,MachineLearningSeminars,Семинары А.В. Грабового к лекционному курсу К.В. Воронцова.,Jupyter Notebook,376,1.1k,https://github.com/andriygav/MachineLearningSeminars,3 days ago
+PAIR-code,facets,Visualizations for machine learning datasets,Jupyter Notebook,7.4k,160,https://github.com/PAIR-code/facets,"on May 24, 2023"
+llSourcell,Machine_Learning_Journey,"This is the Curriculum for ""Machine Learning Journey"" By Siraj Raval on Youtube",Jupyter Notebook,966,888,https://github.com/llSourcell/Machine_Learning_Journey,"on Sep 3, 2018"
+TimePickerWang,MachineLearning,Machine Learning in Action学习笔记，一个文件夹代表一个算法，每个文件夹包含算法所需的数据集、源码和图片，图片放在pic文件夹中，数据集放在在Data文件夹内。书中的代码是python2的，有不少错误，这里代码是我用python3写的，且都能直接运行,Jupyter Notebook,208,249,https://github.com/TimePickerWang/MachineLearning,"on Mar 15, 2019"
+joemehr,MachineLearning,implementations of machine learning algorithms in Matlab/Octave,Jupyter Notebook,11,160,https://github.com/joemehr/MachineLearning,"on Jan 20, 2014"
+SmallVagetable,machine_learning_python,通过阅读网上的资料代码，进行自我加工，努力实现常用的机器学习算法。实现算法有KNN、Kmeans、EM、Perceptron、决策树、逻辑回归、svm、adaboost、朴素贝叶斯,Jupyter Notebook,735,550,https://github.com/SmallVagetable/machine_learning_python,"on Oct 22, 2019"
+maelfabien,Machine_Learning_Tutorials,"Code, exercises and tutorials of my personal blog ! 📝",Jupyter Notebook,789,267,https://github.com/maelfabien/Machine_Learning_Tutorials,"on Feb 18, 2020"
+Thinkgamer,Machine-Learning-With-Python,此项目是我在学习《机器学习实战》这本书时的代码记录情况，用python实现，当然也会包括一些其他的机器学习算法，使用Python实现,Jupyter Notebook,700,261,https://github.com/Thinkgamer/Machine-Learning-With-Python,"on Aug 5, 2019"
+eclarson,MachineLearningNotebooks,,Jupyter Notebook,164,391,https://github.com/eclarson/MachineLearningNotebooks,2 hours ago
+trekhleb,machine-learning-octave,🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained,Jupyter Notebook,888,216,https://github.com/trekhleb/machine-learning-octave,"on Jul 8, 2020"
+jmportilla,Udemy---Machine-Learning,Notebooks for Course,Jupyter Notebook,247,249,https://github.com/jmportilla/Udemy---Machine-Learning,"on Jul 7, 2016"
+automl,auto-sklearn,Automated Machine Learning with scikit-learn,Jupyter Notebook,8k,426,https://github.com/automl/auto-sklearn,9 days ago
+PnYuan,Machine-Learning_ZhouZhihua,"Exercises answers to the book ""machine-learning"" written by Prof. Zhou Zhihua of Nanjing University",Jupyter Notebook,545,1.3k,https://github.com/PnYuan/Machine-Learning_ZhouZhihua,"on Mar 20, 2019"
+metrofun,machine-learning-surveys,"A curated list of Machine Learning Surveys, Tutorials and Books.",Jupyter Notebook,1.4k,424,https://github.com/metrofun/machine-learning-surveys,"on Jan 3, 2023"
+yanshengjia,ml-road,"Machine Learning Resources, Practice and Research",Jupyter Notebook,4.5k,200,https://github.com/yanshengjia/ml-road,3 days ago
+CompPhysics,MachineLearning,Course on Machine Learning and Statistical data Analysis with book at https://compphysics.github.io/MachineLearning/doc/LectureNotes/_bui…,Jupyter Notebook,207,1.7k,https://github.com/CompPhysics/MachineLearning,yesterday
+PacktPublishing,Hands-On-Machine-Learning-for-Algorithmic-Trading,"Hands-On Machine Learning for Algorithmic Trading, published by Packt",Jupyter Notebook,1.7k,147,https://github.com/PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading,"on Jan 18, 2023"
+4GeeksAcademy,machine-learning-python-template,Very simple template to work on machine learning projects with Python,Jupyter Notebook,29,676,https://github.com/4GeeksAcademy/machine-learning-python-template,9 days ago
+microsoft,SynapseML,Simple and Distributed Machine Learning,Jupyter Notebook,5.2k,1.4k,https://github.com/microsoft/SynapseML,5 days ago
+zhaozhengcoder,Machine-Learning,关于机器学习的内容,Jupyter Notebook,316,852,https://github.com/zhaozhengcoder/Machine-Learning,"on Sep 17, 2022"
+abhishekkrthakur,approachingalmost,Approaching (Almost) Any Machine Learning Problem,Jupyter Notebook,8.2k,246,https://github.com/abhishekkrthakur/approachingalmost,"on Mar 25, 2023"
+recodehive,machine-learning-repos,"A curated list of awesome machine learning frameworks, libraries and software (by language). I",Jupyter Notebook,338,1.1k,https://github.com/recodehive/machine-learning-repos,10 days ago
+gaih,introduction-to-machine-learning-archived,,Jupyter Notebook,565,332,https://github.com/gaih/introduction-to-machine-learning-archived,"on May 8, 2021"
+ws13685555932,machine_learning_derivation,notes of machine learning algorithm derivation,Jupyter Notebook,789,512,https://github.com/ws13685555932/machine_learning_derivation,"on Oct 9, 2019"
+eriklindernoren,ML-From-Scratch,Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. …,Jupyter Notebook,29.1k,225,https://github.com/eriklindernoren/ML-From-Scratch,"on Oct 15, 2023"
+firmai,business-machine-learning,"A curated list of practical business machine learning (BML) and business data science (BDS) applications for Accounting, Customer, Employ…",Jupyter Notebook,803,4.9k,https://github.com/firmai/business-machine-learning,"on Oct 4, 2024"
+youssefHosni,Practical-Machine-Learning,Practical machine learning notebook & articles covers the machine learning end to end life cycle.,Jupyter Notebook,933,225,https://github.com/youssefHosni/Practical-Machine-Learning,"on Dec 16, 2023"
+jadijadi,machine_learning_with_python_jadi,The notebooks we use on ML course,Jupyter Notebook,1k,203,https://github.com/jadijadi/machine_learning_with_python_jadi,19 days ago
+wzy6642,Machine-Learning-in-Action-Python3,《机器学习实战》的python3源码,Jupyter Notebook,1.3k,387,https://github.com/wzy6642/Machine-Learning-in-Action-Python3,"on Aug 2, 2020"
+PacktPublishing,Python-Machine-Learning-Cookbook,Code files for Python-Machine-Learning-Cookbook,Jupyter Notebook,463,477,https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook,"on Jan 30, 2023"
+wangyuGithub01,Machine_Learning_Resources,🐟🐟🐟 机器学习面试复习资源,Jupyter Notebook,1.2k,384,https://github.com/wangyuGithub01/Machine_Learning_Resources,"on Aug 14, 2023"
+yangkky,Machine-learning-for-proteins,Listing of papers about machine learning for proteins.,Jupyter Notebook,1.7k,182,https://github.com/yangkky/Machine-learning-for-proteins,"on May 31, 2024"
+dair-ai,ML-Notebooks,🔥 Machine Learning Notebooks,Jupyter Notebook,3.4k,218,https://github.com/dair-ai/ML-Notebooks,"on Apr 9, 2024"
+TeFuirnever,Machine-Learning-in-Action,⚡️⚡️⚡️《机器学习实战》代码（基于Python3）🚀,Jupyter Notebook,970,528,https://github.com/TeFuirnever/Machine-Learning-in-Action,"on Feb 5, 2020"
+zhouxc,Stanford-Machine-Learning-Course,machine learning course programming exercise,Jupyter Notebook,527,280,https://github.com/zhouxc/Stanford-Machine-Learning-Course,"on Dec 25, 2011"
+maykulkarni,Machine-Learning-Notebooks,Machine Learning notebooks for refreshing concepts.,Jupyter Notebook,533,355,https://github.com/maykulkarni/Machine-Learning-Notebooks,"on Aug 24, 2021"
+rohan-paul,MachineLearning-DeepLearning-Code-for-my-YouTube-Channel,The full collection of all codes for my Youtube Channel segregated as per topic.,Jupyter Notebook,436,250,https://github.com/rohan-paul/MachineLearning-DeepLearning-Code-for-my-YouTube-Channel,"on Nov 26, 2023"
+arbox,machine-learning-with-ruby,Curated list: Resources for machine learning in Ruby,Jupyter Notebook,2.2k,204,https://github.com/arbox/machine-learning-with-ruby,"on Dec 26, 2024"
+josephmisiti,machine-learning-module,the best machine learning tutorials on the web,Jupyter Notebook,474,183,https://github.com/josephmisiti/machine-learning-module,"on Apr 28, 2011"
+XiangyanChen,MachineLearning,《统计学习方法》相关的机器学习实现代码。Machine Learning.,Jupyter Notebook,309,255,https://github.com/XiangyanChen/MachineLearning,"on Aug 7, 2019"
+AssemblyAI-Community,Machine-Learning-From-Scratch,Implementation of popular ML algorithms from scratch,Python,908,102,https://github.com/AssemblyAI-Community/Machine-Learning-From-Scratch,"on Jan 9, 2024"
+amitshekhariitbhu,AndroidTensorFlowMachineLearningExample,Android TensorFlow MachineLearning Example (Building TensorFlow for Android),Python,1.4k,263,https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample,on May 2
+rasbt,MachineLearning-QandAI-book,Machine Learning Q and AI book,Python,675,425,https://github.com/rasbt/MachineLearning-QandAI-book,on Aug 20
+llhthinker,MachineLearningLab,Some experiments about Machine Learning,Python,114,145,https://github.com/llhthinker/MachineLearningLab,"on Nov 16, 2020"
+RRdmlearning,Machine-Learning-From-Scratch,常用机器学习的算法简洁实现,Python,653,193,https://github.com/RRdmlearning/Machine-Learning-From-Scratch,"on Jan 3, 2018"
+krishnaik06,Machine-Learning-Algorithms-Materials,,Python,553,292,https://github.com/krishnaik06/Machine-Learning-Algorithms-Materials,"on Jan 29, 2023"
+diefimov,MTH594_MachineLearning,"The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)",Python,383,304,https://github.com/diefimov/MTH594_MachineLearning,"on Apr 1, 2017"
+aws-samples,aws-machine-learning-university-accelerated-cv,Machine Learning University: Accelerated Computer Vision Class,Python,1.6k,137,https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv,"on Oct 13, 2024"
+xviniette,FlappyLearning,Program learning to play Flappy Bird by machine learning (Neuroevolution),Python,4k,369,https://github.com/xviniette/FlappyLearning,"on Nov 23, 2023"
+Ceyron,machine-learning-and-simulation,All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/…,Python,1.1k,498,https://github.com/Ceyron/machine-learning-and-simulation,on Jun 8
+Swift-AI,Swift-AI,The Swift machine learning library.,Swift,6.1k,217,https://github.com/Swift-AI/Swift-AI,"on May 4, 2017"
+peteflorence,MachineLearning6.867,"My own notes, implementations, and musings for MIT's graduate course in machine learning, 6.867",Swift,342,553,https://github.com/peteflorence/MachineLearning6.867,"on Mar 14, 2024"
+junku901,machine_learning,Machine learning library for Node.js,Swift,733,139,https://github.com/junku901/machine_learning,"on Nov 19, 2016"
+devAmoghS,Machine-Learning-with-Python,Small scale machine learning projects to understand the core concepts . Give a Star 🌟If it helps you. BONUS: Interview Bank coming up..!,Swift,1.3k,130,https://github.com/devAmoghS/Machine-Learning-with-Python,7 days ago
+PacktPublishing,TensorFlow-Machine-Learning-Cookbook,Code repository for TensorFlow Machine Learning Cookbook by Packt,Swift,562,200,https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Cookbook,"on Jan 30, 2023"
+rapidsai,cuml,cuML - RAPIDS Machine Learning Library,Swift,5k,393,https://github.com/rapidsai/cuml,3 minutes ago
+nitinkaushik01,Deep_and_Machine_Learning_Projects,This Repository contains the list of various Machine and Deep Learning related projects. Related code and data files are available inside…,Swift,621,600,https://github.com/nitinkaushik01/Deep_and_Machine_Learning_Projects,"on Feb 9, 2023"
+yug95,MachineLearning,Machine learning for beginner(Data Science enthusiast),Swift,127,369,https://github.com/yug95/MachineLearning,on Mar 25
+linxid,Machine_Learning_Study_Path,机器学习过程中所看的书，视频和源码,Swift,853,130,https://github.com/linxid/Machine_Learning_Study_Path,"on Oct 24, 2022"
+RedstoneWill,MachineLearningInAction-Camp,,Swift,274,232,https://github.com/RedstoneWill/MachineLearningInAction-Camp,"on Dec 18, 2018"
+zhaozhiyong19890102,Python-Machine-Learning-Algorithm,Python-Machine-Learning-Algorithm,Python,391,182,https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm,"on Feb 27, 2019"
+kaiwaehner,kafka-streams-machine-learning-examples,"This project contains examples which demonstrate how to deploy analytic models to mission-critical, scalable production environments leve…",Python,872,317,https://github.com/kaiwaehner/kafka-streams-machine-learning-examples,"on Dec 18, 2023"
+pliugithub,MachineLearning,NYU ECE GY-6143,Python,134,312,https://github.com/pliugithub/MachineLearning,1 hour ago
+solegalli,feature-engineering-for-machine-learning,Code repository for the online course Feature Engineering for Machine Learning,Python,404,124,https://github.com/solegalli/feature-engineering-for-machine-learning,"on Dec 5, 2023"
+llp1992,MachineLearning,,Python,155,427,https://github.com/llp1992/MachineLearning,"on May 2, 2016"
+jorgecasas,php-ml,PHP Machine Learning library,Python,316,114,https://github.com/jorgecasas/php-ml,"on Jan 26, 2023"
+Building-ML-Pipelines,building-machine-learning-pipelines,"Code repository for the O'Reilly publication ""Building Machine Learning Pipelines"" by Hannes Hapke & Catherine Nelson",Python,602,1.1k,https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines,"on Mar 25, 2023"
+PacktPublishing,Python-Machine-Learning-Second-Edition,"Python Machine Learning - Second Edition, published by Packt",Python,502,257,https://github.com/PacktPublishing/Python-Machine-Learning-Second-Edition,"on Jan 30, 2023"
+mml-book,mml-book.github.io,"Companion webpage to the book ""Mathematics For Machine Learning""",Python,14.7k,384,https://github.com/mml-book/mml-book.github.io,on Mar 13
+doccano,doccano,Open source annotation tool for machine learning practitioners.,Python,10.4k,2.7k,https://github.com/doccano/doccano,on Jun 16
+elicit,machine-learning-list,"A curriculum for learning about foundation models, from scratch to the frontier",Jupyter Notebook,1.4k,1.8k,https://github.com/elicit/machine-learning-list,"on Jun 6, 2024"
+animesh1012,machineLearning,"Kaggle-sourced machine learning projects in Python Jupyter notebooks, spanning computer vision to predictive modeling.",Jupyter Notebook,110,126,https://github.com/animesh1012/machineLearning,on Aug 6
+mdozmorov,MachineLearning_notes,Machine learning and deep learning resources,Jupyter Notebook,557,128,https://github.com/mdozmorov/MachineLearning_notes,on Sep 28
+leonvanbokhorst,NoteBooks-Statistics-and-MachineLearning,Jupyter Notebooks from the old UnsupervisedLearning.com (RIP) machine learning and statistics blog,Jupyter Notebook,330,81,https://github.com/leonvanbokhorst/NoteBooks-Statistics-and-MachineLearning,"on Apr 25, 2023"
+deepVector,geospatial-machine-learning,A curated list of resources focused on Machine Learning in Geospatial Data Science.,Jupyter Notebook,685,196,https://github.com/deepVector/geospatial-machine-learning,"on Jun 22, 2018"
+HuangCongQing,MachineLearning_Ng,吴恩达机器学习coursera课程，学习代码(2017年秋) The Stanford Coursera course on MachineLearning with Andrew Ng,Jupyter Notebook,265,163,https://github.com/HuangCongQing/MachineLearning_Ng,"on May 11, 2020"
+UnityTechnologies,MachineLearningRoguelike,A small Roguelike game that uses Machine Learning to power its entities. Originally used in talks by Ciro & Alessia.,Jupyter Notebook,463,107,https://github.com/UnityTechnologies/MachineLearningRoguelike,"on Mar 17, 2022"
+familyld,Machine_Learning,周志华《机器学习》阅读笔记,Jupyter Notebook,418,85,https://github.com/familyld/Machine_Learning,"on Jun 14, 2022"
+jmartinezheras,2018-MachineLearning-Lectures-ESA,Machine Learning Lectures at the European Space Agency (ESA) in 2018,Jupyter Notebook,363,145,https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA,"on Sep 18, 2023"
+Superalgos,Machine-Learning-Plugins,Machine-Learning-Plugins,Jupyter Notebook,4,147,https://github.com/Superalgos/Machine-Learning-Plugins,"on Dec 28, 2021"
+PacktPublishing,Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original,"Machine Learning for Algorithmic Trading, Second Edition - published by Packt",Jupyter Notebook,1.5k,1.5k,https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition_Original,on Sep 5
+Avik-Jain,100-Days-of-ML-Code-Chinese-Version,Chinese Translation for Machine Learning Infographics,Jupyter Notebook,3.5k,568,https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version,"on Sep 10, 2018"
+adeshpande3,Machine-Learning-Links-And-Lessons-Learned,"List of all the lessons learned, best practices, and links from my time studying machine learning",Jupyter Notebook,1k,948,https://github.com/adeshpande3/Machine-Learning-Links-And-Lessons-Learned,"on Oct 6, 2022"
+RayDean,MachineLearning,【火炉炼AI】-机器学习系列文章,Jupyter Notebook,209,343,https://github.com/RayDean/MachineLearning,"on Apr 13, 2019"
+rasbt,machine-learning-notes,Collection of useful machine learning codes and snippets (originally intended for my personal use),Jupyter Notebook,832,91,https://github.com/rasbt/machine-learning-notes,"on Mar 21, 2024"
+datawhalechina,machine-learning-toy-code,《机器学习》（西瓜书）代码实战,Jupyter Notebook,911,140,https://github.com/datawhalechina/machine-learning-toy-code,on May 7
+HadXu,machine-learning,my machine-learning tutorial,Jupyter Notebook,291,185,https://github.com/HadXu/machine-learning,"on Nov 22, 2022"
+LiYangHart,Hyperparameter-Optimization-of-Machine-Learning-Algorithms,Implementation of hyperparameter optimization/tuning methods for machine learning & deep learning models (easy&clear),Jupyter Notebook,1.3k,159,https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms,"on Sep 22, 2022"
+nxpeng9235,MachineLearningFAQ,Machine Learning FAQ,Jupyter Notebook,393,301,https://github.com/nxpeng9235/MachineLearningFAQ,"on Jan 13, 2023"
+xbeat,Machine-Learning,"Cross Beat (xbe.at) - Your hub for python, machine learning and AI tutorials. Explore Python tutorials, AI insights, and more.",Jupyter Notebook,504,84,https://github.com/xbeat/Machine-Learning,on Sep 8
+emilmont,Artificial-Intelligence-and-Machine-Learning,Algorithm implementations and homework solutions for the Stanford's online courses,Python,548,121,https://github.com/emilmont/Artificial-Intelligence-and-Machine-Learning,"on Jul 20, 2013"
+TreborNamor,TradingView-Machine-Learning-GUI,"Start your trading journey with this project's advanced stop loss/take profit generator, enhancing your TradingView strategy. Utilize skl…",Python,879,305,https://github.com/TreborNamor/TradingView-Machine-Learning-GUI,"on Nov 19, 2023"
+microsoft,DMTK,Microsoft Distributed Machine Learning Toolkit,Python,2.7k,245,https://github.com/microsoft/DMTK,"on Sep 13, 2018"
+googlecreativelab,teachable-machine-v1,"Explore how machine learning works, live in the browser. No coding required.",Python,3.9k,559,https://github.com/googlecreativelab/teachable-machine-v1,"on Sep 2, 2021"
+johnmyleswhite,ML_for_Hackers,"Code accompanying the book ""Machine Learning for Hackers""",Python,3.7k,606,https://github.com/johnmyleswhite/ML_for_Hackers,"on May 26, 2019"
+aws-samples,aws-machine-learning-university-accelerated-tab,Machine Learning University: Accelerated Tabular Data Class,Python,1k,2.2k,https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab,"on Oct 13, 2024"
+wq19901103wq,machine-learning-books,book,Python,349,310,https://github.com/wq19901103wq/machine-learning-books,"on Jun 24, 2020"
+epfml,ML_course,"EPFL Machine Learning Course, Fall 2025",Python,2k,186,https://github.com/epfml/ML_course,4 hours ago
+mlr-org,mlr,Machine Learning in R,Python,1.7k,1k,https://github.com/mlr-org/mlr,on Aug 23
+groverpr,Machine-Learning,Notes for machine learning,Python,219,405,https://github.com/groverpr/Machine-Learning,"on Sep 26, 2022"
+data-flair,machine-learning-projects,"Machine Learning projects with source code - Machine Learning projects for beginners, ML projects for final year college students, machine …",Jupyter Notebook,765,164,https://github.com/data-flair/machine-learning-projects,"on Aug 15, 2024"
+anujvyas,Machine-Learning-Projects,This repository consists of all my Machine Learning Projects.,Jupyter Notebook,677,131,https://github.com/anujvyas/Machine-Learning-Projects,"on Jul 22, 2023"
+solegalli,feature-selection-for-machine-learning,Code repository for the online course Feature Selection for Machine Learning,Jupyter Notebook,334,136,https://github.com/solegalli/feature-selection-for-machine-learning,"on Oct 31, 2024"
+RedstoneWill,MachineLearningInAction,,Jupyter Notebook,141,349,https://github.com/RedstoneWill/MachineLearningInAction,"on Jul 22, 2018"
+anirudhjayaraman,Machine-Learning,Repo cataloging my coursework for Andrew Ng's ML MOOC,Jupyter Notebook,146,147,https://github.com/anirudhjayaraman/Machine-Learning,"on Jun 16, 2020"
+tiepvupsu,tiepvupsu.github.io,My Machine Learning blog,Jupyter Notebook,661,188,https://github.com/tiepvupsu/tiepvupsu.github.io,"on Aug 2, 2024"
+online-ml,river,🌊 Online machine learning in Python,Jupyter Notebook,5.6k,566,https://github.com/online-ml/river,on Oct 5
+zwang4,awesome-machine-learning-in-compilers,Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation,Jupyter Notebook,1.6k,598,https://github.com/zwang4/awesome-machine-learning-in-compilers,on Sep 12
+suvoooo,Machine_Learning,Some fundamental machine learning and data-analysis techniques are explained through realistic examples.,Jupyter Notebook,123,172,https://github.com/suvoooo/Machine_Learning,"on Sep 18, 2024"
+luweiagi,machine-learning-notes,This is the notes of the way of machine learning study. You may find something useful in it.,Jupyter Notebook,650,198,https://github.com/luweiagi/machine-learning-notes,20 days ago
+lululxvi,deepxde,A library for scientific machine learning and physics-informed learning,Python,3.6k,131,https://github.com/lululxvi/deepxde,8 days ago
+jiqizhixin,ML-Tutorial-Experiment,Coding the Machine Learning Tutorial for Learning to Learn,Python,2.5k,890,https://github.com/jiqizhixin/ML-Tutorial-Experiment,"on Feb 25, 2019"
+marcotcr,lime,Lime: Explaining the predictions of any machine learning classifier,Python,12k,730,https://github.com/marcotcr/lime,"on Jul 26, 2024"
+PacktPublishing,Python-Machine-Learning-Blueprints,"Code repository for Python Machine Learning Blueprints, published by Packt",Python,358,1.9k,https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints,"on Jan 30, 2023"
+ml5js,ml5-library,Friendly machine learning for the web! 🤖,Python,6.6k,231,https://github.com/ml5js/ml5-library,"on Oct 11, 2024"
+PacktPublishing,Machine-Learning-for-Finance,"Machine Learning for Finance, published by Packt",Python,380,908,https://github.com/PacktPublishing/Machine-Learning-for-Finance,on Sep 5
+stellargraph,stellargraph,StellarGraph - Machine Learning on Graphs,Python,3k,222,https://github.com/stellargraph/stellargraph,"on Apr 10, 2024"
+dair-ai,ML-Course-Notes,🎓 Sharing machine learning course / lecture notes.,Python,6.3k,439,https://github.com/dair-ai/ML-Course-Notes,"on May 16, 2024"
+googlecreativelab,teachablemachine-community,Example code snippets and machine learning code for Teachable Machine,Python,1.7k,841,https://github.com/googlecreativelab/teachablemachine-community,on Aug 21
+rushter,MLAlgorithms,Minimal and clean examples of machine learning algorithms implementations,Python,10.9k,799,https://github.com/rushter/MLAlgorithms,on Jun 16
+srafay,Machine_Learning_A-Z,Learning to create Machine Learning Algorithms,Python,393,1.8k,https://github.com/srafay/Machine_Learning_A-Z,"on Jun 15, 2021"
+brinkar,real-world-machine-learning,Code accompanying the Real-World Machine Learning book,Python,327,195,https://github.com/brinkar/real-world-machine-learning,"on Dec 26, 2016"
+madhug-nadig,Machine-Learning-Algorithms-from-Scratch,Implementing machine learning algorithms from scratch.,Python,386,223,https://github.com/madhug-nadig/Machine-Learning-Algorithms-from-Scratch,"on Sep 11, 2021"
+Luchkata,Algorithmic_Trading_Machine_Learning,,Python,356,284,https://github.com/Luchkata/Algorithmic_Trading_Machine_Learning,"on Feb 4, 2024"
+pmulard,machine-learning-specialization-andrew-ng,A collection of notes and implementations of machine learning algorithms from Andrew Ng's machine learning specialization.,Python,793,217,https://github.com/pmulard/machine-learning-specialization-andrew-ng,"on Jun 8, 2023"
+PRML,PRMLT,Matlab code of machine learning algorithms in book PRML,Python,6.2k,205,https://github.com/PRML/PRMLT,"on Mar 4, 2020"
+X-Brain,MachineLearning,Basic MachineLearning algorithm,Python,114,2.2k,https://github.com/X-Brain/MachineLearning,"on Apr 28, 2017"
+huseinzol05,Stock-Prediction-Models,Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations,Python,9k,92,https://github.com/huseinzol05/Stock-Prediction-Models,"on Apr 17, 2023"
+weizy1981,MachineLearning,,Python,116,3k,https://github.com/weizy1981/MachineLearning,"on Oct 2, 2017"
+PacktPublishing,Graph-Machine-Learning,"Graph Machine Learning, published by Packt",Python,311,91,https://github.com/PacktPublishing/Graph-Machine-Learning,29 days ago
+interpretml,interpret,Fit interpretable models. Explain blackbox machine learning.,C++,6.7k,162,https://github.com/interpretml/interpret,12 days ago
+lopusz,awesome-interpretable-machine-learning,,C++,918,768,https://github.com/lopusz/awesome-interpretable-machine-learning,"on Mar 19, 2023"
+cloudxlab,ml,Machine Learning Projects and Learning Content,C++,460,141,https://github.com/cloudxlab/ml,"on Jan 22, 2024"
+aleju,papers,Summaries of machine learning papers,C++,2.5k,449,https://github.com/aleju/papers,"on Oct 29, 2020"
+yhyap,machine-learning-coursera,Programming assignments from Coursera's Machine Learning course taught by Andrew Ng.,C++,223,439,https://github.com/yhyap/machine-learning-coursera,"on May 27, 2018"
+VowpalWabbit,vowpal_wabbit,"Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allredu…",C++,8.6k,186,https://github.com/VowpalWabbit/vowpal_wabbit,"on Oct 17, 2024"
+Mybridge,machine-learning-open-source,Monthly Series - Machine Learning Top 10 Open Source Projects,C++,986,1.9k,https://github.com/Mybridge/machine-learning-open-source,"on Oct 2, 2020"
+sktime,sktime,A unified framework for machine learning with time series,C++,9.3k,131,https://github.com/sktime/sktime,13 hours ago
+jphall663,interpretable_machine_learning_with_python,"Examples of techniques for training interpretable ML models, explaining ML models, and debugging ML models for accuracy, discrimination, …",C++,681,1.7k,https://github.com/jphall663/interpretable_machine_learning_with_python,"on Jun 18, 2024"
+onmyway133,awesome-machine-learning,"🎰 A curated list of machine learning resources, preferably CoreML",C++,812,210,https://github.com/onmyway133/awesome-machine-learning,"on Oct 1, 2022"
+FlorianMuellerklein,Machine-Learning,Machine learning library written in readable python code,Jupyter Notebook,174,104,https://github.com/FlorianMuellerklein/Machine-Learning,"on Apr 19, 2017"
+hrnbot,Basic-Mathematics-for-Machine-Learning,"The motive behind Creating this repo is to feel the fear of mathematics and do what ever you want to do in Machine Learning , Deep Learning…",Jupyter Notebook,710,149,https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning,"on Sep 13, 2022"
+dair-ai,ML-YouTube-Courses,📺 Discover the latest machine learning / AI courses on YouTube.,Jupyter Notebook,17k,204,https://github.com/dair-ai/ML-YouTube-Courses,"on Jan 22, 2024"
+patrick-llgc,Learning-Deep-Learning,Paper reading notes on Deep Learning and Machine Learning,Jupyter Notebook,1.2k,2.1k,https://github.com/patrick-llgc/Learning-Deep-Learning,11 days ago
+jxareas,Machine-Learning-Notebooks,The full collection of Jupyter Notebook labs from Andrew Ng's Machine Learning Specialization.,Jupyter Notebook,359,176,https://github.com/jxareas/Machine-Learning-Notebooks,on Mar 19
+azminewasi,Machine-Learning-AndrewNg-DeepLearning.AI,"Contains all course modules, exercises and notes of ML Specialization by Andrew Ng, Stanford Un. and DeepLearning.ai in Coursera",Jupyter Notebook,340,144,https://github.com/azminewasi/Machine-Learning-AndrewNg-DeepLearning.AI,"on Dec 5, 2023"
+ACloudGuru-Resources,Course_AWS_Certified_Machine_Learning,,Jupyter Notebook,152,186,https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning,"on Feb 7, 2023"
+jayshah19949596,Machine-Learning-Models,"Decision Trees, Random Forest, Dynamic Time Warping, Naive Bayes, KNN, Linear Regression, Logistic Regression, Mixture Of Gaussian, Neura…",Jupyter Notebook,364,397,https://github.com/jayshah19949596/Machine-Learning-Models,"on May 16, 2017"
+krasserm,machine-learning-notebooks,Stanford Machine Learning course exercises implemented with scikit-learn,Jupyter Notebook,349,140,https://github.com/krasserm/machine-learning-notebooks,"on Nov 19, 2020"
+kubeflow,katib,Automated Machine Learning on Kubernetes,Jupyter Notebook,1.6k,145,https://github.com/kubeflow/katib,21 hours ago
+omairaasim,machine_learning,,Python,47,490,https://github.com/omairaasim/machine_learning,"on Sep 25, 2020"
+Gautam-J,Machine-Learning,"Implementation of different ML Algorithms from scratch, written in Python 3.x",Python,412,248,https://github.com/Gautam-J/Machine-Learning,"on Feb 2, 2024"
+lawlite19,MachineLearningEx,Coursera上斯坦福大学的机器学习编程作业——Andrew Ng,Python,194,97,https://github.com/lawlite19/MachineLearningEx,"on Nov 5, 2016"
+yunshuipiao,sw_machine_learning,machine learning,Python,120,84,https://github.com/yunshuipiao/sw_machine_learning,"on May 7, 2019"
+jonkrohn,ML-foundations,"Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science",Python,4.4k,222,https://github.com/jonkrohn/ML-foundations,"on Nov 21, 2024"
+microsoft,hol-azure-machine-learning,"Introduction to Machine Learning and Azure Machine Learning Services. Hands on labs to show Azure Machine Learning features, developing e…",Python,286,2.1k,https://github.com/microsoft/hol-azure-machine-learning,"on Jul 8, 2023"
+gianlucamalato,machinelearning,Machine learning and artificial intelligence,Python,298,205,https://github.com/gianlucamalato/machinelearning,"on Apr 13, 2022"
+datascienceid,machine-learning-resources,"A curated list of awesome machine learning frameworks, libraries, courses, books and many more.",Python,433,227,https://github.com/datascienceid/machine-learning-resources,"on Mar 23, 2023"
+AtheMathmo,rusty-machine,Machine Learning library for Rust,Python,1.3k,128,https://github.com/AtheMathmo/rusty-machine,"on Jul 10, 2020"
+janishar,mit-deep-learning-book-pdf,"MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville",Python,13.7k,150,https://github.com/janishar/mit-deep-learning-book-pdf,"on Oct 9, 2023"
+rasbt,stat479-machine-learning-fs19,Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison,Jupyter Notebook,764,2.9k,https://github.com/rasbt/stat479-machine-learning-fs19,"on Nov 28, 2020"
+cortexlabs,cortex,Production infrastructure for machine learning at scale,Jupyter Notebook,8k,247,https://github.com/cortexlabs/cortex,"on Jun 13, 2024"
+dlandon,zoneminder.machine.learning,Zoneminder Docker,Jupyter Notebook,322,604,https://github.com/dlandon/zoneminder.machine.learning,"on Apr 13, 2024"
+rust-ml,linfa,A Rust machine learning framework.,Jupyter Notebook,4.4k,143,https://github.com/rust-ml/linfa,13 days ago
+Halfish,machine-learning-reference,常见的机器学习参考资料，包括书籍、公开课等,Jupyter Notebook,440,300,https://github.com/Halfish/machine-learning-reference,"on Jun 24, 2020"
+jiadaizhao,Advanced-Machine-Learning-Specialization,Advanced Machine Learning Specialization on Coursera,Jupyter Notebook,221,122,https://github.com/jiadaizhao/Advanced-Machine-Learning-Specialization,"on Oct 17, 2019"
+animesh-agarwal,Machine-Learning,,Jupyter Notebook,61,223,https://github.com/animesh-agarwal/Machine-Learning,"on Oct 17, 2018"
+jessicayung,machine-learning-nd,Udacity's Machine Learning Nanodegree project files and notes.,Jupyter Notebook,254,209,https://github.com/jessicayung/machine-learning-nd,"on Oct 12, 2016"
+diegocavalca,machine-learning,"Experiments, algorithms and reports in machine learning reseach.",Jupyter Notebook,182,154,https://github.com/diegocavalca/machine-learning,"on Mar 28, 2019"
+susilvaalmeida,machine-learning-andrew-ng,Implementations in python of methods and programming assignments of course Machine Learning of Coursera by Andrew Ng,Jupyter Notebook,378,131,https://github.com/susilvaalmeida/machine-learning-andrew-ng,"on May 31, 2020"
+2019ChenGong,Machine-Learning-Notes,,HTML,525,170,https://github.com/2019ChenGong/Machine-Learning-Notes,"on May 16, 2021"
+JuanPabloMF,machine-learning-platzi,Notebooks del curso de machine learning aplicado con python de platzi,HTML,138,109,https://github.com/JuanPabloMF/machine-learning-platzi,"on Jan 7, 2018"
+thomasnield,oreilly_machine_learning_from_scratch,"Resources for the O'Reilly Online Training ""Machine Learning from Scratch""",HTML,279,193,https://github.com/thomasnield/oreilly_machine_learning_from_scratch,on Oct 1
+apache,predictionio,"PredictionIO, a machine learning server for developers and ML engineers.",HTML,12.5k,260,https://github.com/apache/predictionio,"on Jan 9, 2021"
+mlpack,mlpack,"mlpack: a fast, header-only C++ machine learning library",HTML,5.5k,1.9k,https://github.com/mlpack/mlpack,2 days ago
+PacktPublishing,Interpretable-Machine-Learning-with-Python,"Interpretable Machine Learning with Python, published by Packt",HTML,475,1.7k,https://github.com/PacktPublishing/Interpretable-Machine-Learning-with-Python,on Sep 5
+mantchs,machine_learning_model,机器学习基本模型算法介绍(附加案例),HTML,225,202,https://github.com/mantchs/machine_learning_model,"on May 9, 2019"
+unpingco,Python-for-Probability-Statistics-and-Machine-Learning,"Jupyter Notebooks for Springer book ""Python for Probability, Statistics, and Machine Learning""",HTML,787,151,https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning,"on Nov 12, 2022"
+solegalli,machine-learning-imbalanced-data,Code repository for the online course Machine Learning with Imbalanced Data,HTML,182,300,https://github.com/solegalli/machine-learning-imbalanced-data,"on Nov 30, 2024"
+emoen,Machine-Learning-for-Asset-Managers,"Implementation of code snippets, exercises and application to live data from Machine Learning for Asset Managers (Elements in Quantitativ…",HTML,584,223,https://github.com/emoen/Machine-Learning-for-Asset-Managers,on Jan 29
+zfh1005,awesome-book-machine-learning,机器学习相关学习资料-书籍,Jupyter Notebook,18,181,https://github.com/zfh1005/awesome-book-machine-learning,"on Oct 27, 2018"
+AssemblyAI-Community,ML-Study-Guide,Minimal Machine Learning Study Plan,Jupyter Notebook,1.9k,604,https://github.com/AssemblyAI-Community/ML-Study-Guide,"on Jun 13, 2024"
+FlorianMarquardt,machine-learning-for-physicists,"Code for ""Machine Learning for Physicists"" lecture series by Florian Marquardt",Jupyter Notebook,321,380,https://github.com/FlorianMarquardt/machine-learning-for-physicists,on May 6
+tiepvupsu,ebookMLCB,ebook Machine Learning cơ bản,Jupyter Notebook,1.6k,174,https://github.com/tiepvupsu/ebookMLCB,"on Jul 5, 2024"
+savanpatel,machine-learning-101,A repository related to datasets for Machine Learning.,Jupyter Notebook,142,403,https://github.com/savanpatel/machine-learning-101,"on May 21, 2018"
+bgavran,Category_Theory_Machine_Learning,List of papers studying machine learning through the lens of category theory,Jupyter Notebook,1.4k,181,https://github.com/bgavran/Category_Theory_Machine_Learning,on Oct 4
+maykulkarni,Machine-Learning-Curriculum,Complete path for a beginner to become a Machine Learning Scientist!,Jupyter Notebook,339,89,https://github.com/maykulkarni/Machine-Learning-Curriculum,"on Oct 28, 2018"
+1094401996,machine-learning-coursera,Lecture notes and assignments for coursera machine learning class,Jupyter Notebook,95,123,https://github.com/1094401996/machine-learning-coursera,"on Mar 15, 2013"
+gunthercox,ChatterBot,"ChatterBot is a machine learning, conversational dialog engine for creating chat bots",Jupyter Notebook,14.4k,209,https://github.com/gunthercox/ChatterBot,11 days ago
+ujjwalkarn,DataSciencePython,common data analysis and machine learning tasks using python,Jupyter Notebook,5.6k,4.5k,https://github.com/ujjwalkarn/DataSciencePython,"on Apr 3, 2024"
+ledell,useR-machine-learning-tutorial,useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive http://user2016.org/tutorials/10.html,Jupyter Notebook,399,1.5k,https://github.com/ledell/useR-machine-learning-tutorial,"on Mar 5, 2018"
+codebasics,math-for-machine-learning,Statistics and math for machine learning and data science,Jupyter Notebook,127,204,https://github.com/codebasics/math-for-machine-learning,"on May 29, 2024"
+Coder-World04,Complete-Machine-Learning-,This repository contains everything you need to become proficient in Machine Learning,Jupyter Notebook,585,252,https://github.com/Coder-World04/Complete-Machine-Learning-,"on Feb 5, 2024"
+pycaret,pycaret,"An open-source, low-code machine learning library in Python",Jupyter Notebook,9.6k,94,https://github.com/pycaret/pycaret,on Apr 21
+ritchieng,machine-learning-nanodegree,"Codes, notes and guides on Udacity's machine learning nanodegree.",Jupyter Notebook,81,1.8k,https://github.com/ritchieng/machine-learning-nanodegree,"on Sep 26, 2016"
+MicrosoftDocs,ml-basics,Exercise notebooks for Machine Learning modules on Microsoft Learn,Jupyter Notebook,1.9k,220,https://github.com/MicrosoftDocs/ml-basics,on Aug 12
+quocviethere,Coursera-Machine-Learning-Specialization,2022 Coursera Machine Learning Specialization Optional Labs and Programming Assignments,Jupyter Notebook,265,2.3k,https://github.com/quocviethere/Coursera-Machine-Learning-Specialization,"on Mar 27, 2023"
+tensorflow,serving,"A flexible, high-performance serving system for machine learning models",Jupyter Notebook,6.3k,173,https://github.com/tensorflow/serving,26 days ago
+shafaypro,CrackingMachineLearningInterview,"A repository to prepare you for your machine learning interview, involving most of the questions asked by all the tech giants and local c…",Jupyter Notebook,575,2.2k,https://github.com/shafaypro/CrackingMachineLearningInterview,on Sep 2
+nilearn,nilearn,Machine learning for NeuroImaging in Python,Jupyter Notebook,1.3k,124,https://github.com/nilearn/nilearn,9 hours ago
+lcatro,Machine-Learning-Note,机器学习笔记,Python,432,632,https://github.com/lcatro/Machine-Learning-Note,"on Dec 6, 2017"
+pbharrin,machinelearninginaction3x,Source Code for Machine Learning in Action for Python 3.X,Python,360,103,https://github.com/pbharrin/machinelearninginaction3x,"on May 6, 2020"
+udacity,cn-machine-learning,https://cn.udacity.com/mlnd/,Python,130,206,https://github.com/udacity/cn-machine-learning,"on Jun 28, 2022"
+Premalatha-success,Books-Machine-Learning-and-data-Science,,Python,79,169,https://github.com/Premalatha-success/Books-Machine-Learning-and-data-Science,"on Sep 21, 2023"
+lukasmasuch,best-of-ml-python,🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.,Python,22.7k,530,https://github.com/lukasmasuch/best-of-ml-python,yesterday
+airbnb,aerosolve,A machine learning package built for humans.,Python,4.8k,3k,https://github.com/airbnb/aerosolve,on Jul 15
+mdbloice,Augmentor,Image augmentation library in Python for machine learning.,Python,5.1k,565,https://github.com/mdbloice/Augmentor,"on Mar 21, 2024"
+patrickloeber,MLfromscratch,Machine Learning algorithm implementations from scratch.,Python,1.6k,874,https://github.com/patrickloeber/MLfromscratch,"on Feb 2, 2024"
+rasbt,stat479-machine-learning-fs18,Course material for STAT 479: Machine Learning (FS 2018) at University Wisconsin-Madison,Python,492,575,https://github.com/rasbt/stat479-machine-learning-fs18,"on Dec 21, 2018"
+ankonzoid,LearningX,Deep & Classical Reinforcement Learning + Machine Learning Examples in Python,Python,368,231,https://github.com/ankonzoid/LearningX,"on Jul 20, 2023"
+mikeizbicki,HLearn,Homomorphic machine learning,Haskell,1.7k,186,https://github.com/mikeizbicki/HLearn,"on May 29, 2016"
+Zhenye-Na,machine-learning-uiuc,"🖥️ CS446: Machine Learning in Spring 2018, University of Illinois at Urbana-Champaign",Haskell,283,134,https://github.com/Zhenye-Na/machine-learning-uiuc,"on Apr 28, 2019"
+amueller,introduction_to_ml_with_python,"Notebooks and code for the book ""Introduction to Machine Learning with Python""",Haskell,7.9k,117,https://github.com/amueller/introduction_to_ml_with_python,"on Mar 14, 2024"
+Mixtape-Sessions,Machine-Learning,Machine Learning and Causal Inference taught by Brigham Frandsen,Haskell,215,4.7k,https://github.com/Mixtape-Sessions/Machine-Learning,23 days ago
+Alluxio,alluxio,"Alluxio, data orchestration for analytics and machine learning in the cloud",Haskell,7.1k,97,https://github.com/Alluxio/alluxio,on Apr 29
+mitutitu16,Awesome-Mobile-Machine-Learning,A curated list of awesome mobile machine learning resources.,Haskell,141,3k,https://github.com/mitutitu16/Awesome-Mobile-Machine-Learning,"on Apr 16, 2019"
+Simplilearn-Edu,Machine-Learning--Projects,Projects and datasets for Machine Learning,Haskell,175,210,https://github.com/Simplilearn-Edu/Machine-Learning--Projects,"on Mar 12, 2024"
+AvaisP,machine-learning-programming-assignments-coursera-andrew-ng,Solutions to Andrew NG's machine learning course on Coursera,Haskell,392,141,https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng,"on May 22, 2019"
+Relph1119,MachineLearning-WatermelonBook,周志华-机器学习,Haskell,282,321,https://github.com/Relph1119/MachineLearning-WatermelonBook,"on Apr 16, 2020"
+flashlight,flashlight,A C++ standalone library for machine learning,Haskell,5.4k,67,https://github.com/flashlight/flashlight,25 days ago
+Ryota-Kawamura,Mathematics-for-Machine-Learning-and-Data-Science-Specialization,Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization wh…,Jupyter Notebook,735,501,https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization,"on Jul 10, 2023"
+PacktPublishing,Machine-Learning-for-Cybersecurity-Cookbook,"Machine Learning for Cybersecurity Cookbook, published by Packt",Jupyter Notebook,354,325,https://github.com/PacktPublishing/Machine-Learning-for-Cybersecurity-Cookbook,"on May 2, 2023"
+jacksu,machine-learning,从零基础开始机器学习之旅,Jupyter Notebook,248,183,https://github.com/jacksu/machine-learning,"on Nov 15, 2018"
+jeff1evesque,machine-learning,Web-interface + rest API for classification and regression (https://jeff1evesque.github.io/machine-learning.docs),Jupyter Notebook,261,87,https://github.com/jeff1evesque/machine-learning,"on Feb 17, 2021"
+mrdbourke,m1-machine-learning-test,Code for testing various M1 Chip benchmarks with TensorFlow.,Jupyter Notebook,536,84,https://github.com/mrdbourke/m1-machine-learning-test,"on Apr 4, 2024"
+TingNie,Machine-learning-in-action,个人使用jupyter notebook整理的peter的《机器学习实战》代码，使其更有层次感，更加连贯，也加了一些自己的修改，以及注释,Jupyter Notebook,305,151,https://github.com/TingNie/Machine-learning-in-action,"on Jan 6, 2018"
+fire717,Machine-Learning,机器学习&深度学习资料笔记&基本算法实现&资源整理（ML / CV / NLP / DM...）,Jupyter Notebook,230,143,https://github.com/fire717/Machine-Learning,"on Feb 5, 2024"
+SAP-samples,machine-learning-diff-private-federated-learning,Simulate a federated setting and run differentially private federated learning.,Jupyter Notebook,383,89,https://github.com/SAP-samples/machine-learning-diff-private-federated-learning,on Mar 7
+ocademy-ai,machine-learning,"Learn AI together, for free. AI learning and teaching resources for everyone.",Jupyter Notebook,228,97,https://github.com/ocademy-ai/machine-learning,"on Jun 3, 2024"
+Y1ran,Machine-Learning-in-Action-Python3,Data&code for Machine-Learning-in-Action by Python3 | 《机器学习实战》数据与Python3源码:cat2:,Jupyter Notebook,416,89,https://github.com/Y1ran/Machine-Learning-in-Action-Python3,"on Sep 30, 2022"
+fastmachinelearning,hls4ml,Machine learning on FPGAs using HLS,Python,1.7k,222,https://github.com/fastmachinelearning/hls4ml,4 hours ago
+rasbt,stat451-machine-learning-fs20,STAT 451: Intro to Machine Learning @ UW-Madison (Fall 2020),Python,441,484,https://github.com/rasbt/stat451-machine-learning-fs20,"on Sep 29, 2024"
+gavinkhung,machine-learning-visualized,ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy,Python,956,213,https://github.com/gavinkhung/machine-learning-visualized,on Sep 7
+Apress,monetizing-machine-learning,Source code for 'Monetizing Machine Learning' by Manuel Amunategui and Mehdi Roopaei,Python,137,62,https://github.com/Apress/monetizing-machine-learning,"on Aug 2, 2018"
+Machine-Learning-Tokyo,Interactive_Tools,"Interactive Tools for Machine Learning, Deep Learning and Math",Python,2.8k,143,https://github.com/Machine-Learning-Tokyo/Interactive_Tools,"on Aug 12, 2024"
+gsingers,search_with_machine_learning_course,Public repository for the Search with Machine Learning course taught by Daniel Tunkelang and Grant Ingersoll. Available at https://corise…,Python,57,321,https://github.com/gsingers/search_with_machine_learning_course,"on Nov 8, 2023"
+joanby,python-ml-course,Curso de Introducción a Machine Learning con Python,Python,809,369,https://github.com/joanby/python-ml-course,"on Oct 31, 2023"
+probml,pyprobml,"Python code for ""Probabilistic Machine learning"" book by Kevin Murphy",Python,6.9k,1.6k,https://github.com/probml/pyprobml,on Sep 23
+dataspelunking,MLwR,Machine Learning with R,Python,238,1.6k,https://github.com/dataspelunking/MLwR,"on May 29, 2023"
+huangjia2019,let-us-machine-learning,极客时间：Machine Learning from Scratch（零基础实战机器学习）- 这套课程是我在传统机器学习时代，使用各种机器学习方法完成数据分析项目的尝试。这些经典机器学习方法不会过时，课程设计也算得上是认真而精彩。有些包的选择（如生存周期预测）已不大实用。,Python,217,422,https://github.com/huangjia2019/let-us-machine-learning,"on Oct 27, 2022"
+greyhatguy007,Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera,Mathematics for Machine Learning and Data Science Specialization - Coursera - deeplearning.ai - solutions and notes,Jupyter Notebook,807,154,https://github.com/greyhatguy007/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera,"on Jun 2, 2023"
+anujdutt9,Feature-Selection-for-Machine-Learning,Methods with examples for Feature Selection during Pre-processing in Machine Learning.,Jupyter Notebook,364,376,https://github.com/anujdutt9/Feature-Selection-for-Machine-Learning,"on May 25, 2020"
+Jcharis,Python-Machine-Learning,Tutorials on Machine Learning and Deep Learning with Python,Jupyter Notebook,132,164,https://github.com/Jcharis/Python-Machine-Learning,"on Mar 16, 2022"
+SteffiPeTaffy,machineLearningAZ,,Jupyter Notebook,54,141,https://github.com/SteffiPeTaffy/machineLearningAZ,"on Aug 10, 2019"
+ZhiningLiu1998,awesome-machine-learning-resources,😎 A curated list of awesome lists across all machine learning topics. | 机器学习/深度学习/人工智能一切主题 (学习范式/任务/应用/模型/道德/交叉学科/数据集/框架/教程) 的资源列表汇总。,Jupyter Notebook,609,97,https://github.com/ZhiningLiu1998/awesome-machine-learning-resources,"on Mar 8, 2023"
+fatosmorina,machine-learning-exams,"This repository contains links to machine learning exams, homework assignments, and exercises that can help you test your understanding.",Jupyter Notebook,418,97,https://github.com/fatosmorina/machine-learning-exams,on Apr 25
+shap,shap,A game theoretic approach to explain the output of any machine learning model.,Jupyter Notebook,24.7k,83,https://github.com/shap/shap,yesterday
+AnshMittal1811,MachineLearning-AI,"This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (relat…",Jupyter Notebook,209,3.4k,https://github.com/AnshMittal1811/MachineLearning-AI,on Jan 31
+github,codespaces-jupyter,Explore machine learning and data science with Codespaces,Jupyter Notebook,755,54,https://github.com/github/codespaces-jupyter,on Sep 5
+linyi0604,MachineLearning,学习机器学习的路上...,Jupyter Notebook,91,1.5k,https://github.com/linyi0604/MachineLearning,"on Feb 15, 2023"
+davidrosenberg,mlcourse,Machine learning course materials.,Jupyter Notebook,576,61,https://github.com/davidrosenberg/mlcourse,"on Nov 3, 2023"
+apple,turicreate,Turi Create simplifies the development of custom machine learning models.,Jupyter Notebook,11.2k,269,https://github.com/apple/turicreate,"on Nov 1, 2023"
+mercari,ml-system-design-pattern,System design patterns for machine learning,Jupyter Notebook,2.8k,1.1k,https://github.com/mercari/ml-system-design-pattern,"on Oct 8, 2021"
+hse-aml,hadron-collider-machine-learning,"Materials for ""Addressing Large Hadron Collider Challenges by Machine Learning"" Coursera MOOC",Jupyter Notebook,95,334,https://github.com/hse-aml/hadron-collider-machine-learning,"on Apr 22, 2019"
+DistrictDataLabs,machine-learning,Code & Data for Introduction to Machine Learning with Scikit-Learn,Jupyter Notebook,81,209,https://github.com/DistrictDataLabs/machine-learning,"on Sep 7, 2018"
+PacktPublishing,Mastering-Machine-Learning-for-Penetration-Testing,"Mastering Machine Learning for Penetration Testing, published by Packt",Jupyter Notebook,372,123,https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing,"on Jan 30, 2023"
+shanmukh05,Machine-Learning-Roadmap,A roadmap for getting started with Machine Learning,Jupyter Notebook,462,206,https://github.com/shanmukh05/Machine-Learning-Roadmap,3 days ago
+mljs,ml,Machine learning tools in JavaScript,Jupyter Notebook,2.7k,77,https://github.com/mljs/ml,"on Oct 21, 2024"
+pliang279,awesome-multimodal-ml,Reading list for research topics in multimodal machine learning,Jupyter Notebook,6.7k,212,https://github.com/pliang279/awesome-multimodal-ml,"on Aug 21, 2024"
+aws-solutions-library-samples,fraud-detection-using-machine-learning,Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker,Jupyter Notebook,325,895,https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning,"on Oct 3, 2024"
+snrazavi,Machine_Learning_2018,"Codes and Project for Machine Learning Course, Fall 2018, University of Tabriz",Jupyter Notebook,216,159,https://github.com/snrazavi/Machine_Learning_2018,"on Sep 16, 2021"
+avnyadav,machine_learning_project,This is first machine learning project.,Jupyter Notebook,62,107,https://github.com/avnyadav/machine_learning_project,"on Oct 24, 2022"
+nubank,fklearn,fklearn: Functional Machine Learning,Jupyter Notebook,1.5k,182,https://github.com/nubank/fklearn,on Apr 24
+Anfany,Machine-Learning-for-Beginner-by-Python3,为机器学习的入门者提供多种基于实例的sklearn、TensorFlow以及自编函数(AnFany)的ML算法程序。,Jupyter Notebook,433,171,https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3,"on Oct 16, 2021"
+skrub-data,skrub,Machine learning with dataframes,Jupyter Notebook,1.5k,249,https://github.com/skrub-data/skrub,4 hours ago
+anthonyng2,Machine-Learning-For-Finance,Machine Learning for finance and investment introduction,Jupyter Notebook,260,175,https://github.com/anthonyng2/Machine-Learning-For-Finance,"on Feb 21, 2018"
+dsoellinger,Udacity-Machine-Learning-Nanodegree,All projects and lecture notes of the Udacity Machine Learning Engineer Nanodegree.,Jupyter Notebook,217,131,https://github.com/dsoellinger/Udacity-Machine-Learning-Nanodegree,"on Aug 17, 2018"
+joelowj,Machine-Learning-and-Reinforcement-Learning-in-Finance,Machine Learning and Reinforcement Learning in Finance New York University Tandon School of Engineering,Jupyter Notebook,271,140,https://github.com/joelowj/Machine-Learning-and-Reinforcement-Learning-in-Finance,"on Mar 18, 2020"
+caiiiac,Machine-Learning-with-Python,内容摘自'中国大学MOOC',Jupyter Notebook,152,118,https://github.com/caiiiac/Machine-Learning-with-Python,"on Feb 17, 2019"
+zuole,MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow,最近在学习机器学习，深度学习，自然语言处理，统计学习方法等知识，所以决定自己将学习的相关算法用Python实现一遍，并结合GitHub上相关大牛的代码进行改进，本项目会不断的更新相关算法，欢迎star，fork和关注。 主要包括： 1.吴恩达Andrew Ng老师的机器学习…,Jupyter Notebook,110,159,https://github.com/zuole/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow,"on Mar 19, 2019"
+awesome-mlss,awesome-mlss,🤖 Machine Learning Summer School Guide,HTML,2.9k,98,https://github.com/awesome-mlss/awesome-mlss,yesterday
+DragonflyStats,Coursera-ML,Machine Learning with Coursera,HTML,385,320,https://github.com/DragonflyStats/Coursera-ML,on Sep 11
+juincc0,python_data_science_and_machine_learning_bootcamp,Jupyter notebook for Udemy course: Python data science and machine learning bootcamp,HTML,225,305,https://github.com/juincc0/python_data_science_and_machine_learning_bootcamp,"on Jan 15, 2017"
+yew1eb,machine-learning,常用机器学习算法实践笔记，持续更新！,HTML,174,327,https://github.com/yew1eb/machine-learning,"on Feb 6, 2021"
+jdtoscano94,Learning-Scientific_Machine_Learning_Residual_Based_Attention_PINNs_PIKANs_DeepONets,Physics Informed Machine Learning Tutorials (Pytorch and Jax),HTML,603,84,https://github.com/jdtoscano94/Learning-Scientific_Machine_Learning_Residual_Based_Attention_PINNs_PIKANs_DeepONets,on Feb 23
+QInzhengk,Math-Model-and-Machine-Learning,数学建模和机器学习/深度学习/大模型的笔记和资料（持续更新中......）。,HTML,559,191,https://github.com/QInzhengk/Math-Model-and-Machine-Learning,18 days ago
+xjwhhh,AndrewNgMachineLearning,,HTML,280,120,https://github.com/xjwhhh/AndrewNgMachineLearning,"on Jun 27, 2018"
+microsoft,machine-learning-collection,📕machine learning tech collections at Microsoft and subsidiaries.,HTML,444,121,https://github.com/microsoft/machine-learning-collection,"on Jan 30, 2023"
+amanchadha,coursera-machine-learning-engineering-for-prod-mlops-specialization,Programming assignments and quizzes from all courses within the Machine Learning Engineering for Production (MLOps) specialization offere…,HTML,478,74,https://github.com/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization,"on Nov 12, 2023"
+LinkedInLearning,artificial-intelligence-foundations-machine-learning-3067770,This is a repo for the LinkedIn Learning course Artificial Intelligence Foundations: Machine Learning,HTML,171,308,https://github.com/LinkedInLearning/artificial-intelligence-foundations-machine-learning-3067770,"on Oct 27, 2023"
+yuanxiaosc,Machine_Learning_bookshelf,"机器学习深度学习相关书籍、课件、代码的仓库。 Machine learning is the warehouse of books, courseware and codes.",Jupyter Notebook,219,263,https://github.com/yuanxiaosc/Machine_Learning_bookshelf,"on Jun 5, 2019"
+italojs,awesome-machine-learning-portugues,Um plano de estudos para o aprender machine learning em português,Jupyter Notebook,551,99,https://github.com/italojs/awesome-machine-learning-portugues,"on Jan 22, 2020"
+maxim5,time-series-machine-learning,Machine learning models for time series analysis,Jupyter Notebook,377,89,https://github.com/maxim5/time-series-machine-learning,"on Aug 19, 2021"
+yqtaowhu,MachineLearning,some real example of machine learn algorithm,Jupyter Notebook,66,103,https://github.com/yqtaowhu/MachineLearning,on Jul 3
+uber,causalml,Uplift modeling and causal inference with machine learning algorithms,Jupyter Notebook,5.6k,65,https://github.com/uber/causalml,on Sep 26
+hammadshaikhha,Data-Science-and-Machine-Learning-from-Scratch,Implements common data science methods and machine learning algorithms from scratch in python. Intuition and theory behind the algorithms…,Jupyter Notebook,436,839,https://github.com/hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch,"on Nov 2, 2021"
+PacktPublishing,Statistics-for-Machine-Learning,"Statistics for Machine Learning, published by Packt",Jupyter Notebook,160,230,https://github.com/PacktPublishing/Statistics-for-Machine-Learning,"on Jan 18, 2023"
+lukas,ml-class,Machine learning lessons and teaching projects designed for engineers,Jupyter Notebook,2.5k,147,https://github.com/lukas/ml-class,"on Jun 27, 2024"
+mikeroyal,Machine-Learning-Guide,"Machine learning Guide. Learn all about Machine Learning Tools, Libraries, Frameworks, Large Language Models (LLMs), and Training Models.",Jupyter Notebook,670,1.2k,https://github.com/mikeroyal/Machine-Learning-Guide,"on Jan 5, 2024"
+Exrick,Machine-Learning,"个人机器学习(Machine Learning, ML)笔记",Jupyter Notebook,193,60,https://github.com/Exrick/Machine-Learning,"on Aug 5, 2021"
+patrickloeber,ml-study-plan,The Ultimate FREE Machine Learning Study Plan,Jupyter Notebook,3.1k,76,https://github.com/patrickloeber/ml-study-plan,"on Jun 11, 2024"
+ecmwf-training,mooc-machine-learning-weather-climate,,Jupyter Notebook,199,436,https://github.com/ecmwf-training/mooc-machine-learning-weather-climate,on Mar 12
+moon-hotel,MachineLearningWithMe,A repository contains more than 12 common statistical machine learning algorithm implementations. 常见10余种机器学习算法原理与实现及视频讲解。@月来客栈 出品,Jupyter Notebook,281,178,https://github.com/moon-hotel/MachineLearningWithMe,11 days ago
+milaan9,Machine_Learning_Algorithms_from_Scratch,This repository explores the variety of techniques and algorithms commonly used in machine learning and the implementation in MATLAB and …,Jupyter Notebook,191,50,https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch,"on Dec 10, 2022"
+fenghaotong,MachineLearning,机器学习有关算法和实例,Jupyter Notebook,97,179,https://github.com/fenghaotong/MachineLearning,"on Dec 12, 2020"
+oscarknagg,few-shot,Repository for few-shot learning machine learning projects,Jupyter Notebook,1.3k,53,https://github.com/oscarknagg/few-shot,"on Nov 25, 2019"
+DustinAlandzes,machine-learning-with-python-cookbook-notes,(Part of) Chris Albon's Machine Learning with Python Cookbook in .ipynb form,Jupyter Notebook,288,247,https://github.com/DustinAlandzes/machine-learning-with-python-cookbook-notes,"on Dec 8, 2022"
+visual-ml-notes,visual-machine-learning-notes,Machine Learning Conference & Summer School Notes. 🦄,Jupyter Notebook,573,196,https://github.com/visual-ml-notes/visual-machine-learning-notes,"on Jan 6, 2021"
+jeffprosise,Applied-Machine-Learning,,Jupyter Notebook,215,82,https://github.com/jeffprosise/Applied-Machine-Learning,"on Mar 9, 2023"
+Madhu009,Deep-math-machine-learning.ai,"A blog which talks about machine learning, deep learning algorithms and the Math. and Machine learning algorithms written from scratch.",Jupyter Notebook,198,93,https://github.com/Madhu009/Deep-math-machine-learning.ai,"on Mar 15, 2019"
+g-shreekant,Heart-Disease-Prediction-using-Machine-Learning,"Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.",Jupyter Notebook,276,171,https://github.com/g-shreekant/Heart-Disease-Prediction-using-Machine-Learning,"on Apr 11, 2024"
+jbrownlee,Datasets,Machine learning datasets used in tutorials on MachineLearningMastery.com,Jupyter Notebook,1.2k,209,https://github.com/jbrownlee/Datasets,"on Aug 15, 2023"
+Samsung,veles,Distributed machine learning platform,Jupyter Notebook,912,1.5k,https://github.com/Samsung/veles,"on Nov 21, 2023"
+rentruewang,learning-machine,A handbook for ML built on answers.,Jupyter Notebook,494,178,https://github.com/rentruewang/learning-machine,on Sep 14
+suraggupta,coursera-machine-learning-solutions-python,A repository with solutions to the assignments on Andrew Ng's machine learning MOOC on Coursera,Jupyter Notebook,280,47,https://github.com/suraggupta/coursera-machine-learning-solutions-python,"on Dec 8, 2022"
+tirthajyoti,Papers-Literature-ML-DL-RL-AI,"Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning",Jupyter Notebook,2.7k,142,https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI,"on Feb 18, 2023"
+pavankalyan1997,Machine-learning-without-any-libraries,This is a collection of some of the important machine learning algorithms which are implemented with out using any libraries. Libraries s…,Jupyter Notebook,186,778,https://github.com/pavankalyan1997/Machine-learning-without-any-libraries,"on Feb 6, 2019"
+ZJUGuoShuai,MachineLearningLectureNotes,📕 张志华机器学习导论 MOOC 讲义,Jupyter Notebook,130,170,https://github.com/ZJUGuoShuai/MachineLearningLectureNotes,"on Mar 2, 2022"
+abhisheksoni27,machine-learning-with-js,Machine Learning with JavaScript. Fast and Simple. 🚀,Jupyter Notebook,352,66,https://github.com/abhisheksoni27/machine-learning-with-js,"on Apr 18, 2023"
+chhayac,Machine-Learning-Notebooks,15+ Machine/Deep Learning Projects in Ipython Notebooks,Jupyter Notebook,146,96,https://github.com/chhayac/Machine-Learning-Notebooks,"on Apr 3, 2020"
+Benlau93,Machine-Learning-by-Andrew-Ng-in-Python,Documenting my python implementation of Andrew Ng's Machine Learning course,Jupyter Notebook,312,108,https://github.com/Benlau93/Machine-Learning-by-Andrew-Ng-in-Python,"on Jan 11, 2019"
+Western-OC2-Lab,Intrusion-Detection-System-Using-Machine-Learning,"Code for IDS-ML: intrusion detection system development using machine learning algorithms (Decision tree, random forest, extra trees, XGB…",Jupyter Notebook,538,240,https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning,on Aug 6
+accord-net,framework,"Machine learning, computer vision, statistics and general scientific computing for .NET",Jupyter Notebook,4.5k,141,https://github.com/accord-net/framework,"on Nov 19, 2020"
+Xyclade,MachineLearning,Literature Study,Jupyter Notebook,163,2k,https://github.com/Xyclade/MachineLearning,"on Sep 19, 2016"
+llSourcell,quantum_machine_learning,"This is the code for ""Quantum Machine Learning"" By Siraj Raval on Youtube",Jupyter Notebook,271,40,https://github.com/llSourcell/quantum_machine_learning,"on Sep 4, 2018"
+aaronkub,machine-learning-examples,This repository contains various examples of machine learning workflows.,Jupyter Notebook,86,80,https://github.com/aaronkub/machine-learning-examples,"on Sep 30, 2020"
+gimac,gninrael-enihcam,machine learning resources,Jupyter Notebook,25,131,https://github.com/gimac/gninrael-enihcam,"on Apr 15, 2017"
+rachittoshniwal,machineLearning,A repo for all the relevant code notebooks and datasets used in my Machine Learning tutorial videos on YouTube,Jupyter Notebook,73,528,https://github.com/rachittoshniwal/machineLearning,"on Dec 18, 2021"
+Angel-ML,angel,A Flexible and Powerful Parameter Server for large-scale machine learning,Jupyter Notebook,6.8k,56,https://github.com/Angel-ML/angel,23 days ago
+lawlite19,MachineLearning_TensorFlow,TensorFlow学习,Jupyter Notebook,123,1.6k,https://github.com/lawlite19/MachineLearning_TensorFlow,"on Jun 25, 2017"
+arnaldog12,Machine_Learning,Estudo e implementação dos principais algoritmos de Machine Learning em Jupyter Notebooks.,Jupyter Notebook,224,,https://github.com/arnaldog12/Machine_Learning,on Sep 14
+Akramz,Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow,"Notes & exercise solutions of Part I from the book: ""Hands-On ML with Scikit-Learn, Keras & TensorFlow: Concepts, Tools, and Techniques t…",Jupyter Notebook,991,64,https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow,"on Apr 18, 2024"
+aiplanethub,Machine_Learning_Bootcamp,,Jupyter Notebook,90,420,https://github.com/aiplanethub/Machine_Learning_Bootcamp,"on Dec 26, 2020"
+artzers,MachineLearning,,Jupyter Notebook,59,123,https://github.com/artzers/MachineLearning,"on Mar 30, 2017"
+Azure-Samples,MachineLearningSamples-DeepLearningforPredictiveMaintenance,MachineLearningSamples-DeepLearningforPredictiveMaintenance,Jupyter Notebook,77,59,https://github.com/Azure-Samples/MachineLearningSamples-DeepLearningforPredictiveMaintenance,"on Jun 29, 2019"
+salkuadrat,learning,The easy way to use Machine Learning Kit in Flutter.,Jupyter Notebook,67,68,https://github.com/salkuadrat/learning,"on Dec 26, 2022"
+edtechre,pybroker,Algorithmic Trading in Python with Machine Learning,Jupyter Notebook,2.9k,59,https://github.com/edtechre/pybroker,23 days ago
+merwan,ml-class,Machine learning programming exercises,Jupyter Notebook,315,371,https://github.com/merwan/ml-class,"on May 14, 2017"
+GitYCC,NTU_HYLee_MachineLearning_Homework,"作業分享：台大李宏毅 (Hung-Yi Lee) 教授的Machine Learning (2016, Fall)",Jupyter Notebook,168,254,https://github.com/GitYCC/NTU_HYLee_MachineLearning_Homework,"on Mar 26, 2021"
+hal3,ciml,A Course in Machine Learning,Jupyter Notebook,904,67,https://github.com/hal3/ciml,"on Mar 28, 2023"
+je-suis-tm,machine-learning,"Python machine learning applications in image processing, recommender system, matrix completion, netflix problem and algorithm implementa…",Jupyter Notebook,258,243,https://github.com/je-suis-tm/machine-learning,"on Dec 16, 2022"
+MLReef,mlreef,The collaboration workspace for Machine Learning,Jupyter Notebook,1.5k,57,https://github.com/MLReef/mlreef,"on Nov 1, 2022"
+nouran551,Machine-Learning-Training,,Jupyter Notebook,36,307,https://github.com/nouran551/Machine-Learning-Training,"on Jul 16, 2021"
+NirantK,awesome-project-ideas,"Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",Jupyter Notebook,8.8k,176,https://github.com/NirantK/awesome-project-ideas,"on Mar 13, 2023"
+Ebazhanov,linkedin-skill-assessments-quizzes,"Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java,…",Jupyter Notebook,28.7k,1.3k,https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes,yesterday
+dkirkby,MachineLearningStatistics,Machine learning and statistics for physicists,Jupyter Notebook,102,13.1k,https://github.com/dkirkby/MachineLearningStatistics,"on Apr 16, 2021"
+NikolaiZolotykh,MachineLearningCourse,"Примеры использования библиотек sklean, pandas, numpy и др для курса по машинному обучению",Jupyter Notebook,84,54,https://github.com/NikolaiZolotykh/MachineLearningCourse,"on Sep 22, 2023"
+kuleshov,teaching-material,Teaching materials for the machine learning and deep learning classes at Stanford and Cornell,Jupyter Notebook,1.1k,60,https://github.com/kuleshov/teaching-material,"on Sep 4, 2020"
+dusty-nv,jetson-containers,Machine Learning Containers for NVIDIA Jetson and JetPack-L4T,Jupyter Notebook,3.9k,1.4k,https://github.com/dusty-nv/jetson-containers,2 hours ago
+shreyagopal,Phishing-Website-Detection-by-Machine-Learning-Techniques,,Jupyter Notebook,335,735,https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques,"on Aug 28, 2021"
+jubins,MachineLearning-Detecting-Twitter-Bots,Custom classification algorithm to sense the bots vs human on social media space like twitter,Jupyter Notebook,130,200,https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots,"on Jun 18, 2022"
+probml,pml-book,"""Probabilistic Machine Learning"" - a book series by Kevin Murphy",Jupyter Notebook,5.4k,71,https://github.com/probml/pml-book,on Apr 18
+ageron,handson-ml2,"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, …",Jupyter Notebook,29.6k,625,https://github.com/ageron/handson-ml2,"on Jun 13, 2024"
+online-ml,awesome-online-machine-learning,📑 Online machine learning resources,Jupyter Notebook,590,13.2k,https://github.com/online-ml/awesome-online-machine-learning,"on Sep 7, 2024"
+SrirajBehera,Machine-Learning-Andrew-Ng,Full Notes of Andrew Ng's Coursera Machine Learning.,Jupyter Notebook,251,66,https://github.com/SrirajBehera/Machine-Learning-Andrew-Ng,"on Aug 13, 2021"
+IronSpiderMan,MachineLearningPractice,机器学习实战案例，涉及机器学习、深度学习等各个方向。每个案例代码量在百行左右。,Jupyter Notebook,217,95,https://github.com/IronSpiderMan/MachineLearningPractice,on May 30
+atilsamancioglu,MachineLearningNotebooks,,Jupyter Notebook,616,38,https://github.com/atilsamancioglu/MachineLearningNotebooks,on Aug 26
+paiml,practical-mlops-book,[Book-2021] Practical MLOps O'Reilly Book,Jupyter Notebook,895,24,https://github.com/paiml/practical-mlops-book,on Jan 11
+PyPatel,Machine-Learning-and-AI-in-Trading,Applying Machine Learning and AI Algorithms applied to Trading for better performance and low Std.,Jupyter Notebook,415,344,https://github.com/PyPatel/Machine-Learning-and-AI-in-Trading,"on Oct 29, 2019"
+andrewekhalel,MLQuestions,Machine Learning and Computer Vision Engineer - Technical Interview Questions,Jupyter Notebook,4.2k,134,https://github.com/andrewekhalel/MLQuestions,on May 20
+jayinai,ml-interview,Preparing for machine learning interviews,Jupyter Notebook,904,675,https://github.com/jayinai/ml-interview,"on Nov 7, 2022"
+JuliaAI,MLJ.jl,A Julia machine learning framework,Jupyter Notebook,1.9k,217,https://github.com/JuliaAI/MLJ.jl,8 days ago
+PacktPublishing,Advanced-Machine-Learning-with-Python,"Code repository for Advanced Machine Learning with Python, published by Packt",Jupyter Notebook,220,156,https://github.com/PacktPublishing/Advanced-Machine-Learning-with-Python,"on Jan 30, 2023"
+benoitvallon,coursera-machine-learning,,Jupyter Notebook,94,130,https://github.com/benoitvallon/coursera-machine-learning,"on Feb 12, 2020"
+msiddalingaiah,MachineLearning,Machine learning models and related examples,Jupyter Notebook,40,105,https://github.com/msiddalingaiah/MachineLearning,"on May 12, 2021"
+alibaba,pipcook,Machine learning platform for Web developers,Jupyter Notebook,2.6k,63,https://github.com/alibaba/pipcook,20 hours ago
+sjqtentacles,open-source-machine-learning-degree,"Learn machine learning for free, because free is better than not-free.",Jupyter Notebook,228,209,https://github.com/sjqtentacles/open-source-machine-learning-degree,"on Apr 24, 2020"
+data-science-on-aws,data-science-on-aws,"AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",Jupyter Notebook,3.4k,120,https://github.com/data-science-on-aws/data-science-on-aws,"on Jul 31, 2024"
+thomasnield,machine-learning-demo-data,,Jupyter Notebook,220,1.1k,https://github.com/thomasnield/machine-learning-demo-data,"on Dec 13, 2024"
+jjakimoto,finance_ml,Advances in Financial Machine Learning,Jupyter Notebook,791,94,https://github.com/jjakimoto/finance_ml,"on Jan 11, 2023"
+rubenfonnegra,machine_learning,,Jupyter Notebook,32,220,https://github.com/rubenfonnegra/machine_learning,on Sep 13
+nicknochnack,machine-learning-by-industry,A list of machine learning GitHub repos sorted by industry.,Jupyter Notebook,195,123,https://github.com/nicknochnack/machine-learning-by-industry,"on Nov 5, 2019"
+cs123951,MachineLearning,周志华《机器学习》,Jupyter Notebook,93,99,https://github.com/cs123951/MachineLearning,"on Mar 15, 2018"
+openml,OpenML,Open Machine Learning,Jupyter Notebook,711,42,https://github.com/openml/OpenML,on Jul 20
+lining0806,MachineLearningAlgorithm,一些常用的机器学习算法实现,Jupyter Notebook,92,97,https://github.com/lining0806/MachineLearningAlgorithm,"on Apr 19, 2018"
+tirthajyoti,Interactive_Machine_Learning,"IPython widgets, interactive plots, interactive machine learning",Jupyter Notebook,150,51,https://github.com/tirthajyoti/Interactive_Machine_Learning,"on Apr 6, 2019"
+LeoLiu8023AmyLu,Machine_Learning,机器学习相关材料，以及Coursera课程的作业,Jupyter Notebook,134,82,https://github.com/LeoLiu8023AmyLu/Machine_Learning,"on Jun 24, 2019"
+yining1023,machine-learning-for-the-web,"Repository for the ""Machine Learning for the Web"" class at ITP, NYU",Jupyter Notebook,415,65,https://github.com/yining1023/machine-learning-for-the-web,"on Apr 7, 2024"
+vibertthio,awesome-machine-learning-art,"🤖🎨🎸A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning. It's",Jupyter Notebook,708,92,https://github.com/vibertthio/awesome-machine-learning-art,"on Dec 11, 2020"
+csawtelle,udemy-machine-learning-examples,LazyProgrammer Udemy Course Content,Jupyter Notebook,107,56,https://github.com/csawtelle/udemy-machine-learning-examples,"on Aug 5, 2017"
+Jason2Brownlee,CleverAlgorithmsMachineLearning,Defunct,Jupyter Notebook,241,122,https://github.com/Jason2Brownlee/CleverAlgorithmsMachineLearning,"on Jun 29, 2017"
+SJD1882,MOOC-Coursera-Advanced-Machine-Learning,"Content from Coursera's ADVANCED MACHINE LEARNING Specialization (Deep Learning, Bayesian Methods, Natural Language Processing, Reinforce…",Jupyter Notebook,203,88,https://github.com/SJD1882/MOOC-Coursera-Advanced-Machine-Learning,"on Sep 11, 2019"
+adminho,machine-learning,,Jupyter Notebook,141,122,https://github.com/adminho/machine-learning,on Feb 27
+vanshika230,Machine-Learning,This repository contains implementations of all Machine Learning Algorithms from scratch in Python. Mathematics required for ML and many …,Jupyter Notebook,195,63,https://github.com/vanshika230/Machine-Learning,"on Feb 1, 2024"
+PacktPublishing,Machine-Learning-for-Time-Series-with-Python,Machine Learning for Time-Series with Python.Published by Packt,Jupyter Notebook,300,53,https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python,on Sep 5
+rosejn,cortex,Machine learning in Clojure,Jupyter Notebook,1.3k,178,https://github.com/rosejn/cortex,"on Sep 11, 2018"
+deep-diver,Machine-Learning-Yearning-Korean-Translation,Korean translation of machine learning yearning book by Andrew Ng.,Jupyter Notebook,375,109,https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation,"on Jul 18, 2023"
+farukalamai,advanced-machine-learning-engineer-roadmap-2024,A Full Stack ML (Machine Learning) Roadmap involves learning the necessary skills and technologies to become proficient in all aspects of m…,Jupyter Notebook,696,94,https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024,"on Sep 2, 2024"
+learning511,Stanford-Machine-Learning-camp,,Jupyter Notebook,144,93,https://github.com/learning511/Stanford-Machine-Learning-camp,"on Feb 16, 2019"
+free-to-learn,Machine-Learning-Concepts,Machine Learning Concepts with Concepts,Jupyter Notebook,173,105,https://github.com/free-to-learn/Machine-Learning-Concepts,"on Aug 30, 2020"
+rolling-scopes-school,ml-intro,RS School Machine Learning course,Jupyter Notebook,230,75,https://github.com/rolling-scopes-school/ml-intro,"on Jun 2, 2022"
+heygonzalocaira,Machine-Learning-Deep-Learning-Resources,Completely free access list of resources to learn machine learning and deep learning👨🏻‍💻🚀,Jupyter Notebook,207,355,https://github.com/heygonzalocaira/Machine-Learning-Deep-Learning-Resources,"on Oct 8, 2021"
+luispedro,milk,MILK: Machine Learning Toolkit,Jupyter Notebook,603,56,https://github.com/luispedro/milk,"on May 11, 2015"
+Lightning-AI,torchmetrics,"Machine learning metrics for distributed, scalable PyTorch applications.",Jupyter Notebook,2.4k,146,https://github.com/Lightning-AI/torchmetrics,4 days ago
+INRIA,scikit-learn-mooc,Machine learning in Python with scikit-learn MOOC,Jupyter Notebook,1.3k,465,https://github.com/INRIA/scikit-learn-mooc,28 days ago
+lartpang,Machine-Deep-Learning,👋 ML/DL学习笔记（基础+论文）,Jupyter Notebook,283,583,https://github.com/lartpang/Machine-Deep-Learning,"on Dec 22, 2019"
+Apress,machine-learning-with-pyspark,Source Code for 'Machine Learning with PySpark' by Pramod Singh,Jupyter Notebook,116,59,https://github.com/Apress/machine-learning-with-pyspark,"on Feb 26, 2019"
+edgeimpulse,courseware-embedded-machine-learning,,Jupyter Notebook,234,113,https://github.com/edgeimpulse/courseware-embedded-machine-learning,on Feb 10
+mim-uw,MachineLearningSeminar,Seminarium Magisterskie Machine Learning,Jupyter Notebook,27,83,https://github.com/mim-uw/MachineLearningSeminar,6 days ago
+kongruksiamza,MachineLearning,โค้ดประกอบเนื้อหา Python Machine Learning เบื้องต้น,Jupyter Notebook,65,79,https://github.com/kongruksiamza/MachineLearning,on Mar 9
+loserChen,Coursera-MachineLearning,Homework about Machine Learning of Coursera taught by andrew ng,MATLAB,124,45,https://github.com/loserChen/Coursera-MachineLearning,"on Dec 28, 2019"
+PacktPublishing,Machine-Learning-Engineering-with-Python-Second-Edition,,MATLAB,250,41,https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition,on Sep 5
+mervynlee94,Advance-Machine-Learning,,MATLAB,85,180,https://github.com/mervynlee94/Advance-Machine-Learning,"on Jan 16, 2018"
+PacktPublishing,Building-Machine-Learning-Projects-with-TensorFlow,Building Machine Learning Projects with TensorFlow by Packt,MATLAB,267,95,https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-TensorFlow,on Sep 5
+ReactiveCJ,BayesianLearning,Bayesian Machine Learning,MATLAB,209,173,https://github.com/ReactiveCJ/BayesianLearning,"on Jul 20, 2022"
+leehanchung,awesome-full-stack-machine-learning-courses,"Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.",MATLAB,489,79,https://github.com/leehanchung/awesome-full-stack-machine-learning-courses,yesterday
+googlecreativelab,aiexperiments-drum-machine,"Thousands of everyday sounds, organized using machine learning.",MATLAB,758,100,https://github.com/googlecreativelab/aiexperiments-drum-machine,"on Jul 13, 2022"
+VipaiLab,machine-learning-course,浙江大学胡浩基《机器学习》代码,MATLAB,232,117,https://github.com/VipaiLab/machine-learning-course,"on May 23, 2022"
+illustrated-machine-learning,illustrated-machine-learning.github.io,Website containing illustrations about Machine Learning theory!,MATLAB,644,62,https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io,"on Apr 16, 2023"
+PacktPublishing,Applied-Machine-Learning-Explainability-Techniques,"Applied Machine Learning Explainability Techniques, published by Packt",MATLAB,246,68,https://github.com/PacktPublishing/Applied-Machine-Learning-Explainability-Techniques,on Sep 5
+amusi,machine-learning-yearning-cn,吴恩达《Machine Learning Yearning》的中英文版（更新中）：第1~第22章,TeX,265,21,https://github.com/amusi/machine-learning-yearning-cn,"on Sep 30, 2018"
+mazhengcn,suggested-notation-for-machine-learning,This introduces a suggestion of mathematical notation protocol for machine learning.,TeX,488,75,https://github.com/mazhengcn/suggested-notation-for-machine-learning,"on Aug 6, 2024"
+mdabros,SharpLearning,Machine learning for C# .Net,TeX,401,75,https://github.com/mdabros/SharpLearning,on Mar 17
+krishnakumarsekar,awesome-machine-learning-deep-learning-mathematics,"A curated list of mathematics documents ,Concepts, Study Materials , Algorithms and Codes available across the internet for machine learning",TeX,222,86,https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics,"on Aug 11, 2017"
+chribsen,simple-machine-learning-examples,This repo contains simple machine learning examples using scikit-learn and Python.,TeX,157,64,https://github.com/chribsen/simple-machine-learning-examples,"on Jun 12, 2019"
+mfrdixon,ML_Finance_Codes,Machine Learning in Finance: From Theory to Practice Book,TeX,2.4k,92,https://github.com/mfrdixon/ML_Finance_Codes,"on Jun 14, 2020"
+Azure,azureml-examples,"Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",TeX,1.9k,624,https://github.com/Azure/azureml-examples,12 hours ago
+ClimbsRocks,auto_ml,[UNMAINTAINED] Automated machine learning for analytics & production,TeX,1.7k,1.6k,https://github.com/ClimbsRocks/auto_ml,"on Feb 10, 2021"
+goessl,MachineLearning,An easy neural network for Java!,TeX,127,312,https://github.com/goessl/MachineLearning,"on Mar 3, 2019"
+AlbertHG,Machine-Learning-Yearning-Chinese-ver,（完结）Andrew NG Machine-Learning-Yearning translation documents（吴恩达《Machine Learning Yearning》中文翻译及英文原稿）,TeX,265,32,https://github.com/AlbertHG/Machine-Learning-Yearning-Chinese-ver,"on Oct 11, 2018"
+Day-yong,Machine_Learning,机器学习算法经典案例,Jupyter Notebook,111,97,https://github.com/Day-yong/Machine_Learning,"on Jan 31, 2021"
+iree-org,iree,A retargetable MLIR-based machine learning compiler and runtime toolkit.,Jupyter Notebook,3.4k,62,https://github.com/iree-org/iree,14 minutes ago
+mohamedameen93,CS-7641-Machine-Learning-Notes,"In this repository, I will publish my notes for GaTech's Machine Learning course CS7641.",Jupyter Notebook,222,787,https://github.com/mohamedameen93/CS-7641-Machine-Learning-Notes,"on Jan 20, 2021"
+edyoda,machine-learning-for-beginners,Start writing machine learning code in just 10 hours,Jupyter Notebook,95,102,https://github.com/edyoda/machine-learning-for-beginners,"on Aug 28, 2018"
+amanchadha,coursera-deep-learning-specialization,"Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: …",Jupyter Notebook,4.1k,113,https://github.com/amanchadha/coursera-deep-learning-specialization,29 days ago
+wjssx,Machine-Learning-Book,涉及机器学习中深度学习、强化学习、监督学习、集成学习相关的pdf书籍及其个人的阅读笔记,Jupyter Notebook,168,2.6k,https://github.com/wjssx/Machine-Learning-Book,"on Mar 28, 2019"
+facebookresearch,CrypTen,A framework for Privacy Preserving Machine Learning,Jupyter Notebook,1.6k,67,https://github.com/facebookresearch/CrypTen,"on Nov 24, 2024"
+dlsucomet,MLResources,"Repository for Machine Learning resources, frameworks, and projects. Managed by the DLSU Machine Learning Group.",Jupyter Notebook,594,297,https://github.com/dlsucomet/MLResources,"on Apr 8, 2019"
+raminmohammadi,MLOps,Machine Learning In Production (MLOps),Jupyter Notebook,215,262,https://github.com/raminmohammadi/MLOps,22 days ago
+ayush714,Core-Machine-Learning-Course,Core Machine Learning Course with Regression Analysis,Jupyter Notebook,245,315,https://github.com/ayush714/Core-Machine-Learning-Course,"on Apr 12, 2023"
+DL-Academy,MachineLearningSKLearn,,Python,70,75,https://github.com/DL-Academy/MachineLearningSKLearn,"on May 9, 2020"
+eugeneyan,applied-ml,📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.,Python,28.5k,49,https://github.com/eugeneyan/applied-ml,"on Jul 19, 2024"
+ColasGael,Machine-Learning-for-Solar-Energy-Prediction,Predict the Power Production of a solar panel farm from Weather Measurements using Machine Learning,Python,279,3.8k,https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction,"on Nov 7, 2019"
+ezgiturali,Machine-Learning-Deep-Learning-Resources,,Python,534,120,https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources,"on Sep 17, 2024"
+fsiddh,Machine-Learning-Masters,"This repository consists content, assignments, assignments solution and study material provided by ineoron ML masters course",Python,216,33,https://github.com/fsiddh/Machine-Learning-Masters,"on Dec 8, 2022"
+cchio,deep-pwning,Metasploit for machine learning.,Python,572,61,https://github.com/cchio/deep-pwning,"on Mar 25, 2023"
+GeostatsGuy,MachineLearningCourse,"My graduate level machine learning course, including student machine learning projects.",Python,114,131,https://github.com/GeostatsGuy/MachineLearningCourse,on Apr 28
+basicv8vc,Python-Machine-Learning-zh,Python机器学习，机器学习入门首选。,Python,200,40,https://github.com/basicv8vc/Python-Machine-Learning-zh,"on Nov 30, 2018"
+TetsuOu,MachineLearning,机器学习,Python,44,79,https://github.com/TetsuOu/MachineLearning,"on Jun 26, 2021"
+Y1ran,Introduction-to-Machine-Learning,专栏文章迁移中，敬请期待~,Python,1.1k,48,https://github.com/Y1ran/Introduction-to-Machine-Learning,"on Apr 9, 2019"
+faizann24,Fwaf-Machine-Learning-driven-Web-Application-Firewall,Machine learning driven web application firewall to detect malicious queries with high accuracy.,Python,431,37,https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall,"on May 15, 2017"
+mhuzaifadev,machine-learning_zero-to-hero,"Welcome to Machine Learning: Zero to Hero: From the fundamentals of machine learning to advanced techniques like regressions, classificat…",Python,278,127,https://github.com/mhuzaifadev/machine-learning_zero-to-hero,"on Jul 11, 2023"
+probml,pml2-book,Probabilistic Machine Learning: Advanced Topics,Python,1.5k,89,https://github.com/probml/pml2-book,on Apr 18
+PacktPublishing,Machine-Learning-for-Algorithmic-Trading-Bots-with-Python,,Python,396,128,https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Bots-with-Python,on Sep 5
+arewadataScience,ArewaDS-Machine-Learning,Arewa Data Science Machine Learning Curricula,Python,55,170,https://github.com/arewadataScience/ArewaDS-Machine-Learning,on Aug 18
+instacart,lore,Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers,Python,1.5k,137,https://github.com/instacart/lore,"on May 13, 2023"
+aws-samples,aws-machine-learning-university-dte,Machine Learning University: Decision Trees and Ensemble Methods,Python,258,134,https://github.com/aws-samples/aws-machine-learning-university-dte,"on Sep 17, 2024"
+Mybridge,machine-learning-articles,Monthly Series - Top 10 Machine Learning Articles,Python,507,90,https://github.com/Mybridge/machine-learning-articles,"on Jul 31, 2019"
+SharmaNatasha,Machine-Learning-using-Python,Open Machine learning Projects,Python,97,39,https://github.com/SharmaNatasha/Machine-Learning-using-Python,"on Apr 9, 2023"
+zhangbw409,Machine-Learning,机器学习相关,Python,65,106,https://github.com/zhangbw409/Machine-Learning,"on Dec 7, 2020"
+gradio-app,gradio,"Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",Python,40.4k,73,https://github.com/gradio-app/gradio,24 minutes ago
+AndreWeiner,machine-learning-applied-to-cfd,Examples of how to use machine learning algorithms in computational fluid dynamics.,Python,262,3.1k,https://github.com/AndreWeiner/machine-learning-applied-to-cfd,"on Aug 26, 2022"
+Skylark0924,Machine-Learning-is-ALL-You-Need,"🔥🌟《Machine Learning 格物志》: ML + DL + RL basic codes and notes by sklearn, PyTorch, TensorFlow, Keras & the most important, from scratch!💪 …",Python,411,88,https://github.com/Skylark0924/Machine-Learning-is-ALL-You-Need,"on Aug 25, 2023"
+WillKoehrsen,Hands-On-Machine-Learning,Contains Jupyter Notebooks/Resources provided by the author and my work on problem sets.,Python,90,96,https://github.com/WillKoehrsen/Hands-On-Machine-Learning,"on May 1, 2023"
+Ryuk17,MachineLearning,Implement Machine learning algorithm by myself using Python 3.6,Python,105,106,https://github.com/Ryuk17/MachineLearning,"on Jun 6, 2021"
+justdark,dml,"D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency",Python,642,32,https://github.com/justdark/dml,"on Jun 16, 2021"
+PacktPublishing,Machine-Learning-Engineering-with-Python,Machine Learning Engineering with Python,Python,185,278,https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python,on Sep 5
+Palashio,libra,Ergonomic machine learning for everyone.,Python,1.9k,102,https://github.com/Palashio/libra,on Aug 27
+Apress,matlab-machine-learning,Source Code for 'MATLAB Machine Learning' by Michael Paluszek and Stephanie Thomas,Python,86,110,https://github.com/Apress/matlab-machine-learning,"on May 25, 2018"
+openxla,xla,"A machine learning compiler for GPUs, CPUs, and ML accelerators",Python,3.7k,83,https://github.com/openxla/xla,4 minutes ago
+mrdbourke,zero-to-mastery-ml,All course materials for the Zero to Mastery Machine Learning and Data Science course.,Jupyter Notebook,3.5k,679,https://github.com/mrdbourke/zero-to-mastery-ml,"on Oct 30, 2024"
+h2oai,h2o-tutorials,Tutorials and training material for the H2O Machine Learning Platform,Jupyter Notebook,1.5k,3.7k,https://github.com/h2oai/h2o-tutorials,"on Oct 24, 2024"
+AliceDudu,Machine-Learning-Learning-Path,,Jupyter Notebook,75,998,https://github.com/AliceDudu/Machine-Learning-Learning-Path,"on Nov 23, 2019"
+bigsnarfdude,machineLearning,"POC IDS anomaly detection engine built with iPython notebook, matplotlib, pandas, numpy, scikit-learn, d3.js, hyperloglog implementation,…",Jupyter Notebook,79,60,https://github.com/bigsnarfdude/machineLearning,"on Jul 22, 2014"
+TheAlgorithms,C-Plus-Plus,"Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",Jupyter Notebook,33.3k,36,https://github.com/TheAlgorithms/C-Plus-Plus,26 days ago
+getnamo,MachineLearningRemote-Unreal,"Machine Learning plugin for the Unreal Engine, encapsulating calls to remote python servers running e.g. Tensorflow/Pytorch.",Jupyter Notebook,148,7.6k,https://github.com/getnamo/MachineLearningRemote-Unreal,"on Dec 5, 2024"
+antmarakis,Machine-Learning,A collection of Machine Learning algorithms in Python written from scratch.,Jupyter Notebook,47,40,https://github.com/antmarakis/Machine-Learning,"on Mar 2, 2020"
+oracle,tribuo,Tribuo - A Java machine learning library,Jupyter Notebook,1.4k,81,https://github.com/oracle/tribuo,20 days ago
+ROBOTIS-GIT,turtlebot3_machine_learning,,Jupyter Notebook,138,192,https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning,on Jun 20
+albahnsen,PracticalMachineLearningClass,,Jupyter Notebook,91,87,https://github.com/albahnsen/PracticalMachineLearningClass,"on Jan 10, 2020"
+Sahith02,machine-learning-algorithms,A curated list of all machine learning algorithms and deep learning algorithms grouped by category.,Python,349,104,https://github.com/Sahith02/machine-learning-algorithms,"on Feb 27, 2022"
+piyushpathak03,Machine-learning-algorithm-PDF,,Python,148,44,https://github.com/piyushpathak03/Machine-learning-algorithm-PDF,"on May 8, 2021"
+codewithzichao,Machine_Learning_Code,《统计学习方法》与常见机器学习模型(GBDT/XGBoost/lightGBM/FM/FFM)的原理讲解与python和类库实现,Python,241,86,https://github.com/codewithzichao/Machine_Learning_Code,"on Mar 18, 2020"
+slowvak,MachineLearningForMedicalImages,Example code on how to apply machine learning methods to medical images. Contains code (python and python notebooks) and data (DICOM),Python,103,51,https://github.com/slowvak/MachineLearningForMedicalImages,"on Aug 28, 2017"
+bolgebrygg,Force-2020-Machine-Learning-competition,"the results, code and the data for the Force 2020 Machine learning competition after the completion of the competition in October 2020.",Python,163,54,https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition,"on Dec 8, 2022"
+STMicroelectronics,STMems_Machine_Learning_Core,DISCONTINUED (July 2025): the maintenance for this repository has been discontinued. Please refer to: https://github.com/STMicroelectroni…,Python,202,103,https://github.com/STMicroelectronics/STMems_Machine_Learning_Core,on Jul 15
+PacktPublishing,Machine-Learning-for-Imbalanced-Data,"Machine Learning for Imbalanced Data, published by Packt",Python,277,72,https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data,on Sep 5
+lujiazho,MachineLearningPlayground,Implementation of basic mathematical pattern recognition/machine learning techniques for fun,Python,134,81,https://github.com/lujiazho/MachineLearningPlayground,"on Nov 17, 2022"
+aeon-toolkit,aeon,A toolkit for time series machine learning and deep learning,Python,1.3k,34,https://github.com/aeon-toolkit/aeon,2 days ago
+tfolkman,byu_econ_applied_machine_learning,The course work for the applied machine learning course I am teaching at BYU,Python,136,222,https://github.com/tfolkman/byu_econ_applied_machine_learning,"on Oct 21, 2020"
+Wrosinski,MachineLearning_ResourcesCompilation,"Compilation of resources found around the web connected with Machine Learning, Deep Learning & Data Science in general.",Python,93,110,https://github.com/Wrosinski/MachineLearning_ResourcesCompilation,"on Nov 1, 2017"
+PacktPublishing,Machine-Learning-Algorithms,"Machine Learning Algorithms, published by Packt",Python,92,47,https://github.com/PacktPublishing/Machine-Learning-Algorithms,"on Jan 30, 2023"
+Fafa-DL,2021-ZJU-Machine-Learning,浙江大学机器学习,Python,227,77,https://github.com/Fafa-DL/2021-ZJU-Machine-Learning,"on Mar 30, 2021"
+tanvirrazin,Machine-Learning-A-Z-Udemy,All the codes in Python and R for the course Machine Learning A-Z on Udemy,Python,88,67,https://github.com/tanvirrazin/Machine-Learning-A-Z-Udemy,"on Oct 4, 2018"
+udacity,br-machine-learning,,Python,47,133,https://github.com/udacity/br-machine-learning,"on Jun 28, 2022"
+hadikazemi,Machine-Learning,,Python,101,101,https://github.com/hadikazemi/Machine-Learning,"on Oct 22, 2022"
+saimadhu-polamuri,DataAspirant_codes,Complete machine learning model codes,Python,209,56,https://github.com/saimadhu-polamuri/DataAspirant_codes,on May 29
+kaushikjadhav01,Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis,Stock Market Prediction Web App based on Machine Learning and Sentiment Analysis of Tweets (API keys included in code). The front end of …,Python,834,273,https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis,"on Feb 19, 2024"
+fbeilstein,machine_learning,,Python,177,246,https://github.com/fbeilstein/machine_learning,21 days ago
+dataprofessor,data,Data Sets for Machine Learning Practice,Python,323,44,https://github.com/dataprofessor/data,"on Nov 12, 2024"
+pplonski,my_ml_service,My Machine Learning Web Service,Python,616,339,https://github.com/pplonski/my_ml_service,"on Jul 23, 2023"
+bat67,awesome-deep-learning-and-machine-learning-questions,【不定期更新】收集整理的一些网站中（如知乎、Quora、Reddit、Stack Exchange等）与深度学习、机器学习、强化学习、数据科学相关的有价值的问题,Python,326,167,https://github.com/bat67/awesome-deep-learning-and-machine-learning-questions,"on Jun 4, 2019"
+dlab-berkeley,Machine-Learning-in-R,"Workshop (6 hours): preprocessing, cross-validation, lasso, decision trees, random forest, xgboost, superlearner ensembles",Python,192,54,https://github.com/dlab-berkeley/Machine-Learning-in-R,"on Mar 25, 2021"
+michaelgutmann,ml-pen-and-paper-exercises,Pen and paper exercises in machine learning,Python,2.5k,72,https://github.com/michaelgutmann/ml-pen-and-paper-exercises,"on May 22, 2024"
+amitshekhariitbhu,Android-TensorFlow-Lite-Example,Android TensorFlow Lite Machine Learning Example,Python,761,207,https://github.com/amitshekhariitbhu/Android-TensorFlow-Lite-Example,on May 2
+Azure-Samples,MachineLearningSamples-PredictiveMaintenance,MachineLearningSamples-PredictiveMaitenance,Python,68,231,https://github.com/Azure-Samples/MachineLearningSamples-PredictiveMaintenance,"on Jun 29, 2019"
+cosmic-cortex,mathematics-of-machine-learning-book,The official GitHub repository for the Mathematics of Machine Learning book!,Python,196,63,https://github.com/cosmic-cortex/mathematics-of-machine-learning-book,on May 23
+Thinklab-SJTU,awesome-ml4co,Awesome machine learning for combinatorial optimization papers.,Python,2k,90,https://github.com/Thinklab-SJTU/awesome-ml4co,on Aug 7
+yacineMahdid,artificial-intelligence-and-machine-learning,A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well …,Python,185,227,https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning,"on Oct 22, 2024"
+aurimas13,Machine-Learning-Goodness,"The Machine Learning project including ML/DL projects, notebooks, cheat codes of ML/DL, useful information on AI/AGI and codes or snippet…",Python,274,93,https://github.com/aurimas13/Machine-Learning-Goodness,"on Nov 28, 2023"
+callmekeyboardman,Machine-Learning-Andrew-Ng,机器学习-Coursera-吴恩达- python+Matlab代码实现,MATLAB,204,46,https://github.com/callmekeyboardman/Machine-Learning-Andrew-Ng,"on May 27, 2022"
+justmarkham,pycon-2016-tutorial,Machine Learning with Text in scikit-learn,MATLAB,447,68,https://github.com/justmarkham/pycon-2016-tutorial,"on Jun 13, 2021"
+Prianca25,Machine-Learning,Applying Machine learning Algorithms on various data sets.,MATLAB,68,431,https://github.com/Prianca25/Machine-Learning,"on Dec 13, 2021"
+NuclearTalent,MachineLearningECT,For better displaying html files and course material use this link,MATLAB,65,65,https://github.com/NuclearTalent/MachineLearningECT,"on Feb 21, 2021"
+hussien89aa,MachineLearning,implement machine learning algorithms,MATLAB,46,44,https://github.com/hussien89aa/MachineLearning,"on Sep 8, 2019"
+OpenNMT,OpenNMT-tf,Neural machine translation and sequence learning using TensorFlow,MATLAB,1.5k,43,https://github.com/OpenNMT/OpenNMT-tf,"on Oct 14, 2023"
+khuyentran1401,machine-learning-articles,List of interesting articles on different topics of machine learning and deep learning,MATLAB,167,382,https://github.com/khuyentran1401/machine-learning-articles,"on May 23, 2023"
+CSCfi,machine-learning-scripts,Collection of scripts and tools related to machine learning,MATLAB,119,56,https://github.com/CSCfi/machine-learning-scripts,"on Oct 15, 2024"
+Conchylicultor,Deep-Learning-Tricks,Enumerate diverse machine learning training tricks.,MATLAB,421,65,https://github.com/Conchylicultor/Deep-Learning-Tricks,"on Jun 21, 2017"
+salesforce,Merlion,Merlion: A Machine Learning Framework for Time Series Intelligence,MATLAB,4.4k,94,https://github.com/salesforce/Merlion,"on Jun 21, 2024"
+dclambert,Python-ELM,Extreme Learning Machine implementation in Python,Python,549,350,https://github.com/dclambert/Python-ELM,"on Mar 5, 2021"
+JY-112553,machine-learning,Andrew Ng's machine learning programming assignments on Coursera,Python,111,255,https://github.com/JY-112553/machine-learning,"on Jul 23, 2019"
+yandex,rep,Machine Learning toolbox for Humans,Python,698,51,https://github.com/yandex/rep,"on Jul 31, 2024"
+wikibook,machine-learning,《나의 첫 머신러닝/딥러닝》 예제 코드,Python,37,151,https://github.com/wikibook/machine-learning,"on Dec 12, 2023"
+taspinar,siml,Machine Learning algorithms implemented from scratch,Python,496,81,https://github.com/taspinar/siml,"on Dec 21, 2020"
+savan77,Practical-Machine-Learning-With-Python,Machine Learning Tutorials in Python,Python,198,260,https://github.com/savan77/Practical-Machine-Learning-With-Python,"on Dec 28, 2020"
+agrawal-priyank,machine-learning-regression,"Built house price prediction model using linear regression and k nearest neighbors and used machine learning techniques like ridge, lasso…",Python,94,87,https://github.com/agrawal-priyank/machine-learning-regression,"on Dec 8, 2023"
+loliverhennigh,Computational-Fluid-Dynamics-Machine-Learning-Examples,This repo contains some tutorial type programs showing some basic ways machine learning can be applied to CFD.,Python,298,70,https://github.com/loliverhennigh/Computational-Fluid-Dynamics-Machine-Learning-Examples,"on Sep 12, 2019"
+ptyadana,Data-Science-and-Machine-Learning-Projects-Dojo,"collections of data science, machine learning and data visualization projects with pandas, sklearn, matplotlib, tensorflow2, Keras, vario…",Python,505,94,https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo,"on Mar 8, 2023"
+SCUTykLin,MachineLearning,Some machine learning algorithm,Python,70,100,https://github.com/SCUTykLin/MachineLearning,"on Jun 17, 2020"
+UtkarshPathrabe,Machine-Learning-Stanford-University-Coursera,Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera.,MATLAB,194,34,https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera,"on Jan 6, 2024"
+tobegit3hub,ml_implementation,Implementation of Machine Learning Algorithms,MATLAB,407,88,https://github.com/tobegit3hub/ml_implementation,"on Mar 1, 2019"
+zzsza,Awesome-Mobility-Machine-Learning-Contents,Machine Learning / Deep Learning Contents in Mobility Industry(Transportation),MATLAB,278,187,https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents,"on Mar 24, 2021"
+kermitt2,grobid,A machine learning software for extracting information from scholarly documents,MATLAB,4.4k,74,https://github.com/kermitt2/grobid,14 hours ago
+huseinzol05,Machine-Learning-Numpy,"Gathers Machine learning models using pure Numpy to cover feed-forward, RNN, CNN, clustering, MCMC, timeseries, tree-based, and so much m…",MATLAB,112,517,https://github.com/huseinzol05/Machine-Learning-Numpy,"on Jun 23, 2019"
+SuvroBaner,Python-for-Data-Science-and-Machine-Learning-Bootcamp,,MATLAB,163,66,https://github.com/SuvroBaner/Python-for-Data-Science-and-Machine-Learning-Bootcamp,"on Feb 23, 2017"
+nex3z,machine-learning-exercise,"Python implementation of the programming assignment from Machine Learning class on Coursera, which is originally implemented in Matlab/Oc…",MATLAB,92,205,https://github.com/nex3z/machine-learning-exercise,"on Oct 15, 2018"
+elsonidoq,machine_learning_practico,,MATLAB,37,69,https://github.com/elsonidoq/machine_learning_practico,"on Dec 30, 2020"
+imteekay,machine-learning-research,✨ ML/AI & Bio/Medicine Research,MATLAB,329,104,https://github.com/imteekay/machine-learning-research,11 hours ago
+aditya1702,Machine-Learning-and-Data-Science,"This is a repository which contains all my work related Machine Learning, AI and Data Science. This includes my graduate projects, machine …",MATLAB,272,41,https://github.com/aditya1702/Machine-Learning-and-Data-Science,"on Nov 22, 2022"
+rickythink,machine-learning-rss,优质机器学习全文RSS,Python,283,76,https://github.com/rickythink/machine-learning-rss,"on Mar 11, 2017"
+thandongtb,machine-learning-repo,,Python,27,43,https://github.com/thandongtb/machine-learning-repo,"on Aug 18, 2017"
+KangCai,Machine-Learning-Algorithm,🌟【Numpy 手写实现】SVM 支持向量机 | KNN K近邻 | Kmeans | Logistic Regression 逻辑回归 | Maximum Entropy 最大熵 | Naive Bayes 朴素贝叶斯 | Perception 感知机 | Decisio…,Python,212,117,https://github.com/KangCai/Machine-Learning-Algorithm,"on Mar 29, 2020"
+superlinear-ai,awesome-machine-learning-engineer,🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!,Python,297,49,https://github.com/superlinear-ai/awesome-machine-learning-engineer,"on Oct 30, 2024"
+databrickslabs,dolly,"Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",Python,10.8k,54,https://github.com/databrickslabs/dolly,"on Jun 30, 2023"
+iterative,cml,♾️ CML - Continuous Machine Learning | CI/CD for ML,Python,4.1k,1.2k,https://github.com/iterative/cml,on Jun 2
+curiousily,Machine-Learning-from-Scratch,"Succinct Machine Learning algorithm implementations from scratch in Python, solving real-world problems (Notebooks and Book). Examples of…",Python,185,346,https://github.com/curiousily/Machine-Learning-from-Scratch,"on Jul 5, 2023"
+jeffprosise,Machine-Learning,Samples demonstrating how to use Scikit-learn to build machine-learning models,Python,86,66,https://github.com/jeffprosise/Machine-Learning,"on Sep 14, 2021"
+LinkedInLearning,machine-learning-with-python-logistic-regression-3211129,This is a LinkedIn Learning repo for Machine Learning with Python: Logistic Regeression.,Python,27,54,https://github.com/LinkedInLearning/machine-learning-with-python-logistic-regression-3211129,"on Jun 21, 2024"
+JuDFTteam,best-of-atomistic-machine-learning,🏆 A ranked list of awesome atomistic machine learning projects ⚛️🧬💎.,Python,574,341,https://github.com/JuDFTteam/best-of-atomistic-machine-learning,4 hours ago
+UBC-CS,cpsc330-2022W1,CPSC 330: Applied Machine Learning,Jupyter Notebook,194,52,https://github.com/UBC-CS/cpsc330-2022W1,"on Aug 21, 2023"
+faizann24,Using-machine-learning-to-detect-malicious-URLs,Machine Learning and Security | Using machine learning to detect malicious URLs,Jupyter Notebook,273,245,https://github.com/faizann24/Using-machine-learning-to-detect-malicious-URLs,"on Aug 12, 2022"
+dlab-berkeley,Python-Machine-Learning,"D-Lab's 6 hour introduction to machine learning in Python. Learn how to perform classification, regression, clustering, and do model sele…",Jupyter Notebook,87,112,https://github.com/dlab-berkeley/Python-Machine-Learning,22 days ago
+farisology,MachineLearningArabic,Machine Learning In Arabic Tutorials for my YouTube channel,Jupyter Notebook,33,70,https://github.com/farisology/MachineLearningArabic,"on Oct 6, 2017"
+PacktCode,Practical-Machine-Learning,,Jupyter Notebook,88,55,https://github.com/PacktCode/Practical-Machine-Learning,"on Jan 20, 2016"
+going-doer,Paper2Code,Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning,Jupyter Notebook,3.6k,69,https://github.com/going-doer/Paper2Code,on Jul 18
+shantanu1109,Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization,This Repository contains Solutions to the Quizes & Lab Assignments of the Machine Learning Specialization (2022) from Deeplearning.AI on …,Jupyter Notebook,191,543,https://github.com/shantanu1109/Coursera-DeepLearning.AI-Stanford-University-Machine-Learning-Specialization,"on Jan 25, 2023"
+DataScienceResearchPeru,MachineLearning,,Jupyter Notebook,60,88,https://github.com/DataScienceResearchPeru/MachineLearning,"on Jul 19, 2018"
+xlvector,hector,Golang machine learning lib,Jupyter Notebook,489,35,https://github.com/xlvector/hector,"on Mar 25, 2016"
+animesh-agarwal,Machine-Learning-Datasets,A collection of all the datasets that I have analyzed and various algorithms used for training.,Jupyter Notebook,45,106,https://github.com/animesh-agarwal/Machine-Learning-Datasets,"on Oct 22, 2018"
+583,machine_learning_notebook,机器学习纯算法实现。持续更新,Jupyter Notebook,103,91,https://github.com/583/machine_learning_notebook,"on Mar 20, 2020"
+google,applied-machine-learning-intensive,Applied Machine Learning Intensive,Jupyter Notebook,150,64,https://github.com/google/applied-machine-learning-intensive,"on Apr 6, 2021"
+yaswanthpalaghat,Disease-prediction-using-Machine-Learning,This Machine Learning project is used to predict the disease based on the symptoms given by the user.It predicts using three different ma…,Jupyter Notebook,146,70,https://github.com/yaswanthpalaghat/Disease-prediction-using-Machine-Learning,"on Aug 14, 2024"
+cyberdefendersprogram,MachineLearning,,Jupyter Notebook,51,92,https://github.com/cyberdefendersprogram/MachineLearning,"on Aug 24, 2018"
+scikit-learn-contrib,imbalanced-learn,A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning,Jupyter Notebook,7.1k,37,https://github.com/scikit-learn-contrib/imbalanced-learn,on Aug 26
+piyushpathak03,Automated-Machine-Learning,All AutoML Libraries,Jupyter Notebook,106,1.3k,https://github.com/piyushpathak03/Automated-Machine-Learning,"on Apr 16, 2021"
+d0r1h,ML-University,Machine Learning Open Source University,Jupyter Notebook,915,61,https://github.com/d0r1h/ML-University,9 hours ago
+MicrosoftDocs,mslearn-aml-labs,Azure Machine Learning Lab Notebooks,Jupyter Notebook,202,119,https://github.com/MicrosoftDocs/mslearn-aml-labs,"on Jan 15, 2021"
+siddhardhan23,Complete-Machine-Learning-Course-Part-1,,Jupyter Notebook,181,227,https://github.com/siddhardhan23/Complete-Machine-Learning-Course-Part-1,"on Sep 4, 2022"
+Ming-Lian,Machine-Learning-Course-in-UCAS,国科大机器学习课程&机器学习笔记,Jupyter Notebook,256,108,https://github.com/Ming-Lian/Machine-Learning-Course-in-UCAS,"on Nov 11, 2020"
+polyaxon,polyaxon,MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle,Jupyter Notebook,3.7k,70,https://github.com/polyaxon/polyaxon,15 days ago
+myLoveOneTwo,Machine_Learning-2,西瓜书，sklearn源码，李航统计学，机器学习实战,Jupyter Notebook,42,325,https://github.com/myLoveOneTwo/Machine_Learning-2,"on Mar 6, 2020"
+stared,interactive-machine-learning-list,"A collaborative list of interactive Machine Learning, Deep Learning and Statistics websites",Jupyter Notebook,439,91,https://github.com/stared/interactive-machine-learning-list,"on Dec 9, 2022"
+rmunro,pytorch_active_learning,PyTorch Library for Active Learning to accompany Human-in-the-Loop Machine Learning book,Jupyter Notebook,976,42,https://github.com/rmunro/pytorch_active_learning,"on Dec 8, 2022"
+venky14,Machine-Learning-with-Iris-Dataset,Data Visualization and Machine Learning with Iris Dataset.,Jupyter Notebook,94,183,https://github.com/venky14/Machine-Learning-with-Iris-Dataset,"on Dec 27, 2022"
+mila-iqia,fuel,A data pipeline framework for machine learning,Jupyter Notebook,872,106,https://github.com/mila-iqia/fuel,"on Nov 22, 2022"
+spsyco,MachineLearning,Machine Learning Tutorial for Beginners,Jupyter Notebook,1,269,https://github.com/spsyco/MachineLearning,"on Oct 1, 2020"
+epfml,OptML_course,EPFL Course - Optimization for Machine Learning - CS-439,Jupyter Notebook,1.4k,197,https://github.com/epfml/OptML_course,on Jul 8
+materialsvirtuallab,maml,"Python for Materials Machine Learning, Materials Descriptors, Machine Learning Force Fields, Deep Learning, etc.",Jupyter Notebook,435,336,https://github.com/materialsvirtuallab/maml,3 days ago
+PytLab,MLBox,Machine Learning Algorithms implementations,Jupyter Notebook,208,92,https://github.com/PytLab/MLBox,"on Oct 8, 2018"
+Bisonai,awesome-edge-machine-learning,"A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and o…",Python,268,144,https://github.com/Bisonai/awesome-edge-machine-learning,"on Feb 23, 2023"
+Prooffreader,intro_machine_learning,"Introduction to Machine Learning, a series of IPython Notebook and accompanying slideshow and video",Python,103,52,https://github.com/Prooffreader/intro_machine_learning,"on Mar 31, 2019"
+shuyo,iir,Machine Learning / Natural Language Processing / Information Retrieval,Python,715,60,https://github.com/shuyo/iir,"on Feb 5, 2021"
+daturkel,learning-papers,Landmark Papers in Machine Learning,Python,681,292,https://github.com/daturkel/learning-papers,on Aug 14
+arXivTimes,arXivTimes,repository to research & share the machine learning articles,Python,3.9k,47,https://github.com/arXivTimes/arXivTimes,"on Jul 1, 2022"
+FrancescaLazzeri,Machine-Learning-for-Time-Series-Forecasting,,Python,166,201,https://github.com/FrancescaLazzeri/Machine-Learning-for-Time-Series-Forecasting,"on Feb 5, 2022"
+abhishek-ch,around-dataengineering,A Data Engineering & Machine Learning Knowledge Hub,Python,1.1k,105,https://github.com/abhishek-ch/around-dataengineering,"on Feb 2, 2024"
+PacktPublishing,Python-Real-World-Machine-Learning,Code files added,Python,100,225,https://github.com/PacktPublishing/Python-Real-World-Machine-Learning,"on Apr 4, 2023"
+sdrangan,introml,Python tutorials for introduction to machine learning,Python,286,102,https://github.com/sdrangan/introml,28 days ago
+PacktPublishing,Machine-Learning-with-R-Third-Edition,"Machine-Learning-with-R-Third-Edition, published by Packt",Python,120,415,https://github.com/PacktPublishing/Machine-Learning-with-R-Third-Edition,on May 9
+dair-ai,Mathematics-for-ML,🧮 A collection of resources to learn mathematics for machine learning,Python,5.5k,123,https://github.com/dair-ai/Mathematics-for-ML,"on Jan 25, 2023"
+prodillo,Machine-Learning-Resources,,Python,105,579,https://github.com/prodillo/Machine-Learning-Resources,"on Aug 10, 2020"
+MicrosoftDocs,pipelines-azureml,Example Azure Pipeline to train and deploy a machine learning model using the Azure Machine Learning service,Python,114,58,https://github.com/MicrosoftDocs/pipelines-azureml,"on Jul 23, 2022"
+diazzzz,Buku-Machine-Learning,,Python,110,509,https://github.com/diazzzz/Buku-Machine-Learning,"on Oct 8, 2021"
+MS20190155,Measuring-Corporate-Culture-Using-Machine-Learning,Code Repository for MS20190155,Python,160,56,https://github.com/MS20190155/Measuring-Corporate-Culture-Using-Machine-Learning,"on Apr 17, 2024"
+hesamsheikh,ml-retreat,Machine Learning Journal for Intermediate to Advanced Topics.,Python,2.2k,104,https://github.com/hesamsheikh/ml-retreat,on Sep 8
+brylevkirill,notes,Learn about Machine Learning and Artificial Intelligence,Python,921,242,https://github.com/brylevkirill/notes,"on Feb 8, 2022"
+shervinea,cheatsheet-translation,"Translation of VIP cheatsheets for Machine Learning Deep Learning, and Artificial Intelligence",Python,912,238,https://github.com/shervinea/cheatsheet-translation,"on Dec 5, 2022"
+GoogleCloudPlatform,ml-design-patterns,Source code accompanying O'Reilly book: Machine Learning Design Patterns,Python,2k,334,https://github.com/GoogleCloudPlatform/ml-design-patterns,"on Apr 29, 2021"
+danielmercy,Python_for_Data_Science_and_Machine_Learning-Bootcamp,Repo for Pierian Data course on Udemey,Python,110,576,https://github.com/danielmercy/Python_for_Data_Science_and_Machine_Learning-Bootcamp,"on Oct 15, 2018"
+SkalskiP,ILearnMachineLearning.js,Thanks to this project I could combine my knowledge from two areas: machine learning and web development. The whole application is writte…,TypeScript,166,204,https://github.com/SkalskiP/ILearnMachineLearning.js,"on Dec 8, 2022"
+PnYuan,Practice-of-Machine-Learning,"code of scattered practices when studying ""machine-learning"".",TypeScript,92,61,https://github.com/PnYuan/Practice-of-Machine-Learning,"on Jan 4, 2020"
+aws,sagemaker-python-sdk,A library for training and deploying machine learning models on Amazon SageMaker,TypeScript,2.2k,78,https://github.com/aws/sagemaker-python-sdk,yesterday
+ben519,MLPB,Machine Learning Problem Bible | Problem Set Here >>,TypeScript,714,1.2k,https://github.com/ben519/MLPB,"on Nov 30, 2019"
+bjmashibing,Machine-Learning,大数据一期-机器学习部分内容,TypeScript,45,271,https://github.com/bjmashibing/Machine-Learning,"on Jul 2, 2022"
+benhamner,MachineLearning.jl,Julia Machine Learning library,TypeScript,116,63,https://github.com/benhamner/MachineLearning.jl,"on Sep 13, 2015"
+xinychen,transdim,Machine learning for transportation data imputation and prediction.,TypeScript,1.3k,28,https://github.com/xinychen/transdim,on Jan 2
+Arm-Examples,ML-examples,Arm Machine Learning tutorials and examples,TypeScript,474,307,https://github.com/Arm-Examples/ML-examples,6 days ago
+DebPanigrahi,Machine-Learning,Machine learning algorithms,TypeScript,113,207,https://github.com/DebPanigrahi/Machine-Learning,"on Apr 9, 2019"
+hmishra2250,Botnet-Detection-using-Machine-Learning,Repository of Bachelor's Major Project on Botnet Detection,TypeScript,167,42,https://github.com/hmishra2250/Botnet-Detection-using-Machine-Learning,"on Jun 13, 2018"
+PacktPublishing,Machine-Learning-with-Spark-Second-Edition,"Machine Learning with Spark - Second Edition, by Packt",Scala,115,76,https://github.com/PacktPublishing/Machine-Learning-with-Spark-Second-Edition,"on Jan 14, 2021"
+khanhnamle1994,machine-learning,"Programming Assignments and Lectures for Andrew Ng's ""Machine Learning"" Coursera course",Scala,86,114,https://github.com/khanhnamle1994/machine-learning,"on Feb 22, 2018"
+PacktPublishing,Machine-Learning-With-Go,"Machine Learning With Go, published by Packt",Scala,136,47,https://github.com/PacktPublishing/Machine-Learning-With-Go,"on Jan 24, 2023"
+erelsgl,limdu,Machine-learning for Node.js,Scala,1.1k,64,https://github.com/erelsgl/limdu,on Jul 9
+ruthy-wei,MachineLearning,,Scala,37,99,https://github.com/ruthy-wei/MachineLearning,"on Oct 27, 2018"
+theindianappguy,machine_learning_flutter_app,Learn how to build a tensorflow model on Techable Machine and then run it on flutter app.,Scala,143,38,https://github.com/theindianappguy/machine_learning_flutter_app,"on Aug 3, 2024"
+shradha-khapra,MachineLearning,A collection of various algorithms under ML.,Scala,106,62,https://github.com/shradha-khapra/MachineLearning,"on Mar 3, 2024"
+ogrisel,parallel_ml_tutorial,Tutorial on scikit-learn and IPython for parallel machine learning,Scala,1.6k,24,https://github.com/ogrisel/parallel_ml_tutorial,"on Oct 4, 2016"
+ila987,Machine-learning-templates,,Scala,89,595,https://github.com/ila987/Machine-learning-templates,"on Aug 20, 2017"
+gaih,introduction-to-machine-learning,,Scala,117,58,https://github.com/gaih/introduction-to-machine-learning,"on Nov 4, 2022"
+RatulGhosh,awesome-machine-learning,📖 List of some awesome university courses for Machine Learning! Feel free to contribute!,Python,138,68,https://github.com/RatulGhosh/awesome-machine-learning,"on Oct 4, 2020"
+DistrictDataLabs,yellowbrick,Visual analysis and diagnostic tools to facilitate machine learning model selection.,Python,4.4k,48,https://github.com/DistrictDataLabs/yellowbrick,on Feb 20
+rugantio,MachineLearningCourse,A collection of notebooks of my Machine Learning class written in python 3,Python,44,566,https://github.com/rugantio/MachineLearningCourse,"on May 29, 2018"
+TheAlgorithms,C,"Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",Python,21.3k,42,https://github.com/TheAlgorithms/C,"on Aug 8, 2024"
+umeshpalai,AlgorithmicTrading-MachineLearning,"Deep Learning - Neural network (RNN, LSTM & GRU)",Python,65,4.7k,https://github.com/umeshpalai/AlgorithmicTrading-MachineLearning,"on Nov 16, 2018"
+Tanu-N-Prabhu,Python,This repository helps you learn Python and Machine Learning from scratch.,Python,1.8k,42,https://github.com/Tanu-N-Prabhu/Python,22 hours ago
+ChengjinLi,machine_learning,机器学习、深度学习、NLP实战项目,Python,149,852,https://github.com/ChengjinLi/machine_learning,"on Feb 26, 2018"
+Azure-Samples,Machine-Learning-Operationalization,Deploying machine learning models to Azure,Python,62,36,https://github.com/Azure-Samples/Machine-Learning-Operationalization,"on Jun 29, 2019"
+ChicagoBoothML,MachineLearning_Fall2015,BUS 41204: Machine Learning,Python,35,68,https://github.com/ChicagoBoothML/MachineLearning_Fall2015,"on Nov 24, 2019"
+microsoft,onnxruntime-inference-examples,Examples for using ONNX Runtime for machine learning inferencing.,Python,1.5k,55,https://github.com/microsoft/onnxruntime-inference-examples,6 days ago
+nadavbh12,Retro-Learning-Environment,The Retro Learning Environment (RLE) -- a learning framework for AI,C++,186,395,https://github.com/nadavbh12/Retro-Learning-Environment,"on Jun 6, 2018"
+amydaali,Machine-Learning-Projects,"Various projects in Linear Regression, Logistic Regression, k Nearest Neighbors, Decision Trees, Random Forests, SVM",C++,143,41,https://github.com/amydaali/Machine-Learning-Projects,"on May 28, 2023"
+PacktPublishing,Machine-Learning-for-Healthcare-Analytics-Projects,Published by Packt,C++,125,47,https://github.com/PacktPublishing/Machine-Learning-for-Healthcare-Analytics-Projects,"on Mar 2, 2023"
+wendelmarques,materiais-de-estudos-sobre-data-science-deep-machine-learning,"💻 📓 Guia de estudos (iniciante) sobre Inteligência Artificial. Contém trilhas de aprendizagem, canais, cursos , livros etc.",C++,582,107,https://github.com/wendelmarques/materiais-de-estudos-sobre-data-science-deep-machine-learning,"on Oct 13, 2021"
+ShawnHymel,computer-vision-with-embedded-machine-learning,,C++,174,119,https://github.com/ShawnHymel/computer-vision-with-embedded-machine-learning,"on Oct 26, 2023"
+kingabzpro,CICD-for-Machine-Learning,"A beginner's project on automating the training, evaluation, versioning, and deployment of models using GitHub Actions.",C++,109,93,https://github.com/kingabzpro/CICD-for-Machine-Learning,"on Dec 2, 2024"
+marinavillaschi,ML-AndrewNg,Notebooks from the Machine Learning Specialization,C++,337,68,https://github.com/marinavillaschi/ML-AndrewNg,"on Nov 18, 2022"
+PacktPublishing,Machine-Learning-Engineering-with-MLflow,"Machine Learning Engineering with MLflow, published by Packt",C++,117,234,https://github.com/PacktPublishing/Machine-Learning-Engineering-with-MLflow,on Sep 5
+HewlettPackard,swarm-learning,"A simplified library for decentralized, privacy preserving machine learning",C++,351,85,https://github.com/HewlettPackard/swarm-learning,"on Nov 6, 2024"
+RichardScottOZ,mineral-exploration-machine-learning,"List of resources for mineral exploration and machine learning, generally with useful code and examples.",C++,269,104,https://github.com/RichardScottOZ/mineral-exploration-machine-learning,23 days ago
+apache,submarine,Submarine is Cloud Native Machine Learning Platform.,Java,704,49,https://github.com/apache/submarine,"on Apr 3, 2024"
+JackBrady,Financial-Machine-Learning,"Notebook based on the book ""Advances in Financial Machine Learning"" by Marcos Lopez de Prado",Java,126,254,https://github.com/JackBrady/Financial-Machine-Learning,"on Nov 20, 2019"
+bjpublic,MachineLearning,선형대수와 통계학으로 배우는 머신러닝 with 파이썬,Java,62,51,https://github.com/bjpublic/MachineLearning,"on Jan 6, 2022"
+Unity-Technologies,ml-agents,The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environmen…,Java,18.8k,29,https://github.com/Unity-Technologies/ml-agents,6 days ago
+mesolitica,NLP-Models-Tensorflow,"Gathers machine learning and Tensorflow deep learning models for NLP problems, 1.13 < Tensorflow < 2.0",Java,1.8k,4.4k,https://github.com/mesolitica/NLP-Models-Tensorflow,"on Jul 20, 2020"
+tianhuaiyuan,Applied-machine-learning-in-python,,Java,72,723,https://github.com/tianhuaiyuan/Applied-machine-learning-in-python,"on Jun 29, 2020"
+vivekn,sentiment,Sentiment analysis using machine learning techniques.,Java,492,102,https://github.com/vivekn/sentiment,"on Oct 1, 2020"
+machinelearnjs,machinelearnjs,Machine Learning library for the web and Node.,Java,542,193,https://github.com/machinelearnjs/machinelearnjs,on Jun 19
+SupaeroDataScience,machine-learning,,Java,19,54,https://github.com/SupaeroDataScience/machine-learning,24 days ago
+ICT-BDA,EasyML,Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real w…,Java,2k,86,https://github.com/ICT-BDA/EasyML,"on Dec 18, 2023"
+nikhilkumarsingh,Machine-Learning-Samples,Machine learning algorithm code samples,Python,9,436,https://github.com/nikhilkumarsingh/Machine-Learning-Samples,"on May 8, 2017"
+Apress,machine-learning-oil-gas-industry,"Source Code for 'Machine Learning in the Oil and Gas Industry' by Yogendra Narayan Pandey, Ayush Rastogi, Sribharath Kainkaryam, Srimoyee…",Python,120,151,https://github.com/Apress/machine-learning-oil-gas-industry,"on Nov 3, 2020"
+ironhack-labs,lab-revisiting-machine-learning,,Python,1,81,https://github.com/ironhack-labs/lab-revisiting-machine-learning,"on Aug 3, 2024"
+ndrplz,machine_learning_lectures,Collection of lectures and lab lectures on machine learning and deep learning. Lab practices in Python and TensorFlow.,Python,150,513,https://github.com/ndrplz/machine_learning_lectures,"on Dec 3, 2019"
+PacktPublishing,Hands-on-Machine-Learning-for-Cyber-Security,"Hands-On Machine Learning for Cybersecurity, published by Packt",Python,194,45,https://github.com/PacktPublishing/Hands-on-Machine-Learning-for-Cyber-Security,"on Jan 18, 2023"
+VincentGranville,Machine-Learning,Material related to my book Intuitive Machine Learning. Some of this material is also featured in my new book Synthetic Data and Generati…,Python,122,111,https://github.com/VincentGranville/Machine-Learning,on Jun 22
+GoogleCloudPlatform,ml-on-gcp,Machine Learning on Google Cloud Platform,Python,507,38,https://github.com/GoogleCloudPlatform/ml-on-gcp,on Jun 18
+jonnor,machinehearing,Machine Learning applied to sound,Python,283,185,https://github.com/jonnor/machinehearing,on Jun 9
+PacktPublishing,Python-Machine-Learning,"Code repository for Python Machine Learning, published by Packt",Python,69,48,https://github.com/PacktPublishing/Python-Machine-Learning,"on Jan 18, 2023"
+deeplearningturkiye,turkce-yapay-zeka-kaynaklari,Türkiye'de yapılan derin öğrenme (deep learning) ve makine öğrenmesi (machine learning) çalışmalarının derlendiği sayfa.,Python,2.4k,62,https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari,"on Nov 3, 2021"
+PacktPublishing,Hands-On-Data-Science-and-Python-Machine-Learning,"Hands-On Data Science and Python Machine Learning, published by Packt",Roff,144,455,https://github.com/PacktPublishing/Hands-On-Data-Science-and-Python-Machine-Learning,"on Jan 24, 2023"
+microsoft,Multiverso,Parameter server framework for distributed machine learning,Roff,778,161,https://github.com/microsoft/Multiverso,"on Jan 20, 2019"
+durgeshsamariya,Data-Science-Machine-Learning-Project-with-Source-Code,Data Science and Machine Learning projects with source code.,Roff,466,223,https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code,"on Jul 1, 2024"
+amirkeren,applied-machine-learning-in-python,Solutions to the 'Applied Machine Learning In Python' Coursera course exercises,Roff,52,97,https://github.com/amirkeren/applied-machine-learning-in-python,"on Dec 16, 2020"
+cristobalvch,Spotify-Machine-Learning,A cool way to create your own Playlists on Spotify Clustering tracks with K-means Algorithm,Roff,75,115,https://github.com/cristobalvch/Spotify-Machine-Learning,"on Feb 17, 2023"
+gorgonia,gorgonia,Gorgonia is a library that helps facilitate machine learning in Go.,Roff,5.9k,59,https://github.com/gorgonia/gorgonia,"on Aug 12, 2024"
+yzzhang,machine-learning,,Roff,53,452,https://github.com/yzzhang/machine-learning,"on Dec 6, 2022"
+replicate,keepsake,Version control for machine learning,Roff,1.7k,53,https://github.com/replicate/keepsake,on Feb 26
+skforecast,skforecast,Time series forecasting with machine learning models,Roff,1.4k,72,https://github.com/skforecast/skforecast,13 hours ago
+EthicalML,xai,XAI - An eXplainability toolbox for machine learning,Roff,1.2k,171,https://github.com/EthicalML/xai,"on Oct 30, 2021"
+cesium-ml,cesium,Machine Learning Time-Series Platform,Python,682,182,https://github.com/cesium-ml/cesium,on Jan 17
+basicmi,AI-Chip,"A list of ICs and IPs for AI, Machine Learning and Deep Learning.",Python,1.7k,103,https://github.com/basicmi/AI-Chip,"on Jun 6, 2024"
+Sabaneak,Machine-Learning-Summer-Group-2021,,Python,99,278,https://github.com/Sabaneak/Machine-Learning-Summer-Group-2021,"on Aug 23, 2021"
+amirziai,learning,"Walkthrough notebooks for Deep Learning, Machine Learning, Reinforcement Learning, Spark, Statistics, Algorithms, Scala, Python",Python,71,83,https://github.com/amirziai/learning,"on Sep 20, 2023"
+luanshiyinyang,MachineLearning,机器学习,Python,47,36,https://github.com/luanshiyinyang/MachineLearning,"on Mar 1, 2021"
+seg,2016-ml-contest,Machine learning contest - October 2016 TLE,Python,197,31,https://github.com/seg/2016-ml-contest,"on Feb 3, 2017"
+ashishpatel26,Titanic-Machine-Learning-from-Disaster,"Start here if... You're new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions. Co…",Python,100,268,https://github.com/ashishpatel26/Titanic-Machine-Learning-from-Disaster,"on Jan 21, 2023"
+SamBelkacem,AI-ML-cheatsheets,Cheatsheets for AI and Machine Learning,Python,515,84,https://github.com/SamBelkacem/AI-ML-cheatsheets,on Jul 4
+chickenbestlover,Online-Recurrent-Extreme-Learning-Machine,"Online-Recurrent-Extreme-Learning-Machine (OR-ELM) for time-series prediction, implemented in python",Python,155,172,https://github.com/chickenbestlover/Online-Recurrent-Extreme-Learning-Machine,"on Jul 16, 2019"
+hschen0712,machine-learning-notes,机器学习笔记,Python,147,69,https://github.com/hschen0712/machine-learning-notes,"on May 14, 2018"
+anuj-glitch,Disease-Prediction-using-Django-and-machine-learning,**A end to end project - Powered by Django and Machine Learning** - This project aims to provide a web platform to predict the occurrence…,CSS,296,43,https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning,"on Oct 1, 2022"
+ageron,handson-ml3,"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, …",CSS,11.6k,86,https://github.com/ageron/handson-ml3,9 days ago
+poga,awesome-federated-learning,resources about federated learning and privacy in machine learning,CSS,539,4.5k,https://github.com/poga/awesome-federated-learning,"on Jun 26, 2024"
+weecology,DeepForest,Python Package for Airborne RGB machine learning,CSS,666,92,https://github.com/weecology/DeepForest,1 hour ago
+Trusted-AI,AIX360,Interpretability and explainability of data and machine learning models,CSS,1.7k,221,https://github.com/Trusted-AI/AIX360,on Feb 26
+alokproc,Verzeo,Machine Learning Course,CSS,55,321,https://github.com/alokproc/Verzeo,"on Jul 23, 2020"
+Azure-Samples,Azure-MachineLearning-ClientLibrary-Python,,CSS,91,135,https://github.com/Azure-Samples/Azure-MachineLearning-ClientLibrary-Python,"on Jun 29, 2019"
+tum-pbs,PhiFlow,A differentiable PDE solving framework for machine learning,CSS,1.7k,46,https://github.com/tum-pbs/PhiFlow,17 days ago
+SocratesClub,machine-learning,Machine Learning for Social Scientists,CSS,62,215,https://github.com/SocratesClub/machine-learning,"on Aug 4, 2023"
+4GeeksAcademy,machine-learning-content,,CSS,17,48,https://github.com/4GeeksAcademy/machine-learning-content,on Aug 27
+tslearn-team,tslearn,The machine learning toolkit for time series analysis in Python,Python,3.1k,112,https://github.com/tslearn-team/tslearn,yesterday
+jalajthanaki,Awesome_Machine_Learning_Solutions,A curated list of repositories for my book Machine Learning Solutions.,Python,80,359,https://github.com/jalajthanaki/Awesome_Machine_Learning_Solutions,"on May 28, 2018"
+neozhangthe1,Coursera-Machine-Learning,source from exercises in Coursera.,Python,8,69,https://github.com/neozhangthe1/Coursera-Machine-Learning,"on Sep 15, 2012"
+hongriSec,AI-Machine-Learning-Security,一个关于人工智能渗透测试分析系列,Python,208,143,https://github.com/hongriSec/AI-Machine-Learning-Security,"on Mar 10, 2020"
+Machine-Learning-Tokyo,DL-workshop-series,Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT),Python,936,45,https://github.com/Machine-Learning-Tokyo/DL-workshop-series,"on Dec 20, 2023"
+anubhavshrimal,Machine-Learning,"The projects I do in Machine Learning with PyTorch, keras, Tensorflow, scikit learn and Python.",Python,148,253,https://github.com/anubhavshrimal/Machine-Learning,"on Oct 2, 2020"
+aws,amazon-sagemaker-examples,"Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",Python,10.8k,32,https://github.com/aws/amazon-sagemaker-examples,on Sep 30
+tensorflow,quantum,An open-source Python framework for hybrid quantum-classical machine learning.,Python,2k,7k,https://github.com/tensorflow/quantum,on Sep 15
+kaiwaehner,hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference,"Real Time Big Data / IoT Machine Learning (Model Training and Inference) with HiveMQ (MQTT), TensorFlow IO and Apache Kafka - no addition…",Python,418,630,https://github.com/kaiwaehner/hivemq-mqtt-tensorflow-kafka-realtime-iot-machine-learning-training-inference,"on Nov 5, 2020"
+tushushu,imylu,Pure Python implementation of machine learning algorithms,Python,444,148,https://github.com/tushushu/imylu,"on Mar 17, 2022"
+gimseng,99-ML-Learning-Projects,A list of 99 machine learning projects for anyone interested to learn from coding and building projects,Jupyter Notebook,1k,254,https://github.com/gimseng/99-ML-Learning-Projects,"on Jul 4, 2024"
+unpingco,Python-for-Probability-Statistics-and-Machine-Learning-2E,"Second edition of Springer Book Python for Probability, Statistics, and Machine Learning",Jupyter Notebook,368,218,https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E,"on Sep 21, 2021"
+Brahme27,All-Machine-Learning-Algorithms-Updated,,Jupyter Notebook,236,122,https://github.com/Brahme27/All-Machine-Learning-Algorithms-Updated,on Sep 25
+HealthCatalyst,healthcareai-py,Python tools for healthcare machine learning,Jupyter Notebook,323,54,https://github.com/HealthCatalyst/healthcareai-py,"on Apr 17, 2019"
+Gengzhige,Machine-Learning,《机器学习必修课：经典算法与Python实战》配套代码,Jupyter Notebook,94,192,https://github.com/Gengzhige/Machine-Learning,"on Jan 13, 2023"
+minhdai2410,machine-learning-data-analysis-yandex-mipt-coursera,"Полная специализация ""Машинное обучение и анализ данных"" от МФТИ и Яндекс на Coursera",Jupyter Notebook,251,39,https://github.com/minhdai2410/machine-learning-data-analysis-yandex-mipt-coursera,"on Jun 26, 2020"
+huggingface,transformers,"🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models…",Jupyter Notebook,152k,88,https://github.com/huggingface/transformers,2 hours ago
+GeorgeSeif,Python-Machine-Learning,Python Machine Learning Algorithms,Jupyter Notebook,95,31.1k,https://github.com/GeorgeSeif/Python-Machine-Learning,"on May 31, 2023"
+imLogM,Machine_Learning_AndrewNg,"Homework of Andrew Ng's ""Machine Learning"" course in Coursera",Jupyter Notebook,116,48,https://github.com/imLogM/Machine_Learning_AndrewNg,"on Jun 26, 2018"
+neerjad,MachineLearning,A repo with tutorials for algorithms from scratch,Jupyter Notebook,100,55,https://github.com/neerjad/MachineLearning,"on Jun 9, 2018"
+HoodPanther,coursera-Advanced-Machine-Learning-specialization,Repo for coursera specialization Advanced Machine Learning by Higher School of Economics,Jupyter Notebook,15,21,https://github.com/HoodPanther/coursera-Advanced-Machine-Learning-specialization,"on Nov 17, 2017"
+torch,tutorials,A series of machine learning tutorials for Torch7,Jupyter Notebook,622,178,https://github.com/torch/tutorials,"on Oct 1, 2021"
+JianxGao,C-machine-learning,C语言手撕机器学习/深度学习算法,Jupyter Notebook,133,312,https://github.com/JianxGao/C-machine-learning,"on Aug 27, 2021"
+dustinvtran,ml-videos,A collection of video resources for machine learning,Jupyter Notebook,1.6k,41,https://github.com/dustinvtran/ml-videos,"on Jan 24, 2021"
+maxis42,Machine-Learning-and-Data-Analysis-Coursera-Yandex-MIPT,Machine Learning and Data Analysis Coursera Specialization from Yandex and MIPT,Jupyter Notebook,177,214,https://github.com/maxis42/Machine-Learning-and-Data-Analysis-Coursera-Yandex-MIPT,"on Mar 15, 2023"
+snap-stanford,ogb,"Benchmark datasets, data loaders, and evaluators for graph machine learning",Jupyter Notebook,2k,126,https://github.com/snap-stanford/ogb,on May 6
+michalis0,DataScience_and_MachineLearning,,Jupyter Notebook,30,406,https://github.com/michalis0/DataScience_and_MachineLearning,10 days ago
+zlotus,Coursera_Machine_Learning_Exercises,Machine Learning by Andrew Ng from Coursera,Jupyter Notebook,119,59,https://github.com/zlotus/Coursera_Machine_Learning_Exercises,"on Aug 31, 2016"
+LxMLS,lxmls-toolkit,Machine Learning applied to Natural Language Processing Toolkit used in the Lisbon Machine Learning Summer School,Jupyter Notebook,226,55,https://github.com/LxMLS/lxmls-toolkit,on Jul 25
+chesterheng,machinelearning-datascience,Complete Machine Learning and Data Science: Zero to Mastery,Jupyter Notebook,183,224,https://github.com/chesterheng/machinelearning-datascience,"on Sep 28, 2020"
+toxtli,awesome-machine-learning-jupyter-notebooks-for-colab,A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory,Jupyter Notebook,313,95,https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab,"on Oct 16, 2019"
+apeeyush,machine-learning,"Demonstrates data munging, analysis and visualization techniques",Jupyter Notebook,121,77,https://github.com/apeeyush/machine-learning,"on Nov 18, 2015"
+bamtak,machine-learning-implemetation-python,Basic Machine Learning implementation with python,Jupyter Notebook,106,33,https://github.com/bamtak/machine-learning-implemetation-python,"on Jul 2, 2020"
+gmonce,scikit-learn-book,"Source code for the ""Learning scikit-learn: Machine Learning in Python""",Jupyter Notebook,396,58,https://github.com/gmonce/scikit-learn-book,"on May 11, 2019"
+hhaji,Applied-Machine-Learning,Course: Applied Machine Learning,Jupyter Notebook,63,265,https://github.com/hhaji/Applied-Machine-Learning,"on Apr 5, 2024"
+Shujian2015,FreeML,A List of Data Science/Machine Learning Resources (Mostly Free),Jupyter Notebook,1.1k,56,https://github.com/Shujian2015/FreeML,"on May 31, 2024"
+jeffreyksmithjr,reactive-machine-learning-systems,Code from the book Machine Learning Systems,Jupyter Notebook,143,516,https://github.com/jeffreyksmithjr/reactive-machine-learning-systems,"on Jul 26, 2018"
+bytedance,fedlearner,A multi-party collaborative machine learning framework,Jupyter Notebook,902,51,https://github.com/bytedance/fedlearner,21 days ago
+davidADSP,Generative_Deep_Learning_2nd_Edition,"The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Com…",Jupyter Notebook,1.4k,173,https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition,"on Jun 2, 2024"
+nithyadurai87,machine_learning_examples,machine_learning_examples,Jupyter Notebook,71,550,https://github.com/nithyadurai87/machine_learning_examples,on Jan 18
+anindya-saha,Machine-Learning-with-Python,Machine Learning Implementations in Python,Jupyter Notebook,64,50,https://github.com/anindya-saha/Machine-Learning-with-Python,"on Jun 24, 2021"
+Dpananos,GetCards,Notebook to download machine learning flashcards,Jupyter Notebook,456,71,https://github.com/Dpananos/GetCards,"on Jul 16, 2020"
+mozilla,bugbug,Platform for Machine Learning projects on Software Engineering,Jupyter Notebook,552,155,https://github.com/mozilla/bugbug,11 hours ago
+ablaom,MachineLearningInJulia2020,Resources for a 3.5 hour workshop on machine learning using the MLJ toolbox,Jupyter Notebook,144,316,https://github.com/ablaom/MachineLearningInJulia2020,"on Nov 24, 2021"
+dnackat,mitx-6.86x-machine-learning,Python code written for MIT's Machine Learning course offered on edX,Jupyter Notebook,125,29,https://github.com/dnackat/mitx-6.86x-machine-learning,"on Sep 25, 2019"
+sonamghosh,quantum-machine-learning,This repo is to contain material from the University of Toronto Quantum Machine Learning Course by Prof. Peter Wittek on edX,Jupyter Notebook,85,87,https://github.com/sonamghosh/quantum-machine-learning,"on Apr 22, 2019"
+shantnu,Titanic-Machine-Learning,,Jupyter Notebook,59,48,https://github.com/shantnu/Titanic-Machine-Learning,"on Jun 19, 2021"
+Phylliade,awesome-machine-learning-robotics,A curated list of resources about Machine Learning for Robotics,Jupyter Notebook,245,57,https://github.com/Phylliade/awesome-machine-learning-robotics,"on Aug 26, 2019"
+chasinginfinity,ml-from-scratch,Machine Learning algorithms implemented in Python from scratch,Jupyter Notebook,166,39,https://github.com/chasinginfinity/ml-from-scratch,"on Oct 12, 2018"
+agniiyer,Applied-Machine-Learning-in-Python,University of Michigan on Coursera,Jupyter Notebook,56,526,https://github.com/agniiyer/Applied-Machine-Learning-in-Python,"on Aug 15, 2019"
+SeldonIO,seldon-server,Machine Learning Platform and Recommendation Engine built on Kubernetes,Java,1.5k,94,https://github.com/SeldonIO/seldon-server,"on Apr 12, 2020"
+Wasim37,machine_learning_code,机器学习与深度学习算法示例,Java,106,302,https://github.com/Wasim37/machine_learning_code,"on Jul 7, 2020"
+OrvilleX,MachineLearning,本项目以应用为主出发，结合了从基础的机器学习、深度学习到目标检测以及目前最新的大模型，采用目前成熟的 第三方库、开源预训练模型以及相关论文的最新技术，目的是记录学习的过程同时也进行分享以供更多人可以直接进行使用。,Java,73,45,https://github.com/OrvilleX/MachineLearning,on Jun 1
+BIDData,BIDMach,CPU and GPU-accelerated Machine Learning Library,Java,917,23,https://github.com/BIDData/BIDMach,"on Oct 5, 2022"
+DataThinkers,Machine-Learning-Projects-Code,,Java,72,170,https://github.com/DataThinkers/Machine-Learning-Projects-Code,"on Feb 29, 2024"
+tf-encrypted,tf-encrypted,A Framework for Encrypted Machine Learning in TensorFlow,Java,1.2k,66,https://github.com/tf-encrypted/tf-encrypted,"on Sep 25, 2024"
+maxim5,cs229-2018-autumn,All notes and materials for the CS229: Machine Learning course by Stanford University,Java,2.9k,214,https://github.com/maxim5/cs229-2018-autumn,on Feb 14
+llSourcell,machine_learning_and_neuroscience,"This is the code for ""Machine Learning & Neuroscience"" By Siraj Raval on Youtube",Java,133,1k,https://github.com/llSourcell/machine_learning_and_neuroscience,"on Feb 8, 2018"
+facebookresearch,fairchem,FAIR Chemistry's library of machine learning methods for chemistry,Java,1.8k,50,https://github.com/facebookresearch/fairchem,15 minutes ago
+WuLC,MachineLearningAlgorithm,Implementation of some machine learning algorithms,Java,41,401,https://github.com/WuLC/MachineLearningAlgorithm,"on Apr 26, 2019"
+luspr,awesome-ml-courses,Awesome free machine learning and AI courses with video lectures.,Jupyter Notebook,3k,35,https://github.com/luspr/awesome-ml-courses,"on Dec 12, 2024"
+Kiinitix,Malware-Detection-using-Machine-learning,Anomaly based Malware Detection using Machine Learning (PE and URL),Jupyter Notebook,171,311,https://github.com/Kiinitix/Malware-Detection-using-Machine-learning,on Feb 1
+mrpeerat,Machine_Learning_0-100,,Jupyter Notebook,37,58,https://github.com/mrpeerat/Machine_Learning_0-100,"on May 1, 2019"
+logpai,logparser,"A machine learning toolkit for log parsing [ICSE'19, DSN'16]",Jupyter Notebook,1.9k,87,https://github.com/logpai/logparser,on Jun 11
+FraPochetti,StocksProject,Predict Stocks Market Machine Learning,Jupyter Notebook,260,578,https://github.com/FraPochetti/StocksProject,"on Sep 25, 2014"
+Leci37,TensorFlow-stocks-prediction-Machine-learning-RealTime,"Predict operation stocks points (buy-sell) with past technical patterns, and powerful machine-learning libraries such as: Sklearn.RandomF…",Jupyter Notebook,299,131,https://github.com/Leci37/TensorFlow-stocks-prediction-Machine-learning-RealTime,on Mar 22
+WillKoehrsen,feature-selector,Feature selector is a tool for dimensionality reduction of machine learning datasets,Jupyter Notebook,2.2k,94,https://github.com/WillKoehrsen/feature-selector,"on Jun 18, 2024"
+SpikeKing,MachineLearningTutorial,机器学习笔记,Jupyter Notebook,42,768,https://github.com/SpikeKing/MachineLearningTutorial,"on Apr 4, 2018"
+pddasig,Machine-Learning-Competition-2020,SPWLA PDDA’s 1st Petrophysical Data-Driven Analytics Contest -- Sonic Log Synthesis,Jupyter Notebook,76,34,https://github.com/pddasig/Machine-Learning-Competition-2020,"on Oct 27, 2020"
+AdamZhuang,machine-learning,machine-learning,Jupyter Notebook,29,64,https://github.com/AdamZhuang/machine-learning,"on Apr 12, 2018"
+PacktPublishing,TensorFlow-Machine-Learning-Projects,,Jupyter Notebook,113,58,https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects,"on Mar 2, 2023"
+ruohaiweb,machine-learning-example,,Jupyter Notebook,69,70,https://github.com/ruohaiweb/machine-learning-example,"on Jun 29, 2022"
+julianyulu,Machine-Learning-Notes,Lecture Notes of Andrew Ng's Machine Learning Course,Jupyter Notebook,100,52,https://github.com/julianyulu/Machine-Learning-Notes,"on Jul 4, 2018"
+COD1995,A-Comprehensive-Note-on-Machine-Learning,These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serv…,Jupyter Notebook,110,44,https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning,"on Apr 1, 2024"
+sekhansen,machine_learning_economics,Machine Learning for Economics,Jupyter Notebook,91,87,https://github.com/sekhansen/machine_learning_economics,"on Sep 1, 2019"
+mmargenot,machine-learning-market-maker,Implementation of a Bayesian-style market maker in the vein of 'Intelligent Market-Making in Artificial Financial Markets' by Sanmay Das,Jupyter Notebook,106,45,https://github.com/mmargenot/machine-learning-market-maker,"on Oct 16, 2015"
+sraeisi,MachineLearning_Physics,This is to facilitate the “Machine Learning in Physics” course that I am teaching at Sharif University of Technology for winter-19 semest…,Jupyter Notebook,65,54,https://github.com/sraeisi/MachineLearning_Physics,on May 27
+tueimage,8dm50-machine-learning,TU/e 8DM50 Machine Learning in Medical Imaging and Biology course materials.,Jupyter Notebook,39,28,https://github.com/tueimage/8dm50-machine-learning,22 days ago
+HongshengHu,membership-inference-machine-learning-literature,,Jupyter Notebook,359,105,https://github.com/HongshengHu/membership-inference-machine-learning-literature,on Jun 28
+isl-org,Open3D-ML,An extension of Open3D to address 3D Machine Learning tasks,Jupyter Notebook,2.2k,40,https://github.com/isl-org/Open3D-ML,on Jun 28
+sentinel-hub,eo-learn,Earth observation processing framework for machine learning in Python,Python,1.2k,350,https://github.com/sentinel-hub/eo-learn,on Mar 4
+anowell,are-we-learning-yet,How ready is Rust for Machine Learning?,Python,514,307,https://github.com/anowell/are-we-learning-yet,on Mar 3
+AxeldeRomblay,MLBox,MLBox is a powerful Automated Machine Learning python library.,Python,1.5k,66,https://github.com/AxeldeRomblay/MLBox,"on Aug 6, 2023"
+RubixML,ML,A high-level machine learning and deep learning library for the PHP language.,Python,2.2k,273,https://github.com/RubixML/ML,yesterday
+snrazavi,Machine-Learning-in-Python-Workshop,My workshop on machine learning using python language to implement different algorithms,Python,122,194,https://github.com/snrazavi/Machine-Learning-in-Python-Workshop,"on Jan 24, 2020"
+ImagingInformatics,machine-learning,Repository for activities of the machine learning committee,Python,67,64,https://github.com/ImagingInformatics/machine-learning,8 hours ago
+mdnuruzzamanKALLOL,Machine-Learning-Book-Collections,Feature Books for Machine Learning,Python,120,39,https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections,"on Jun 16, 2023"
+zzlyw,machine-learning-exercises,The exercises about machine learning course.,Python,118,51,https://github.com/zzlyw/machine-learning-exercises,"on Oct 26, 2017"
+tobigithub,caret-machine-learning,Practical examples for the R caret machine learning package,Python,69,39,https://github.com/tobigithub/caret-machine-learning,"on Mar 28, 2017"
+secretflow,secretflow,A unified framework for privacy-preserving data analysis and machine learning,Python,2.6k,49,https://github.com/secretflow/secretflow,3 days ago
+ikespand,awesome-machine-learning-fluid-mechanics,Curated list for ML in FM,Python,219,452,https://github.com/ikespand/awesome-machine-learning-fluid-mechanics,on Sep 6
+philomathic-guy,Malicious-Web-Content-Detection-Using-Machine-Learning,Chrome extension for detecting phishing web sites,Python,253,49,https://github.com/philomathic-guy/Malicious-Web-Content-Detection-Using-Machine-Learning,"on Oct 2, 2020"
+marcopeix,MachineLearningModelDeploymentwithStreamlit,,Python,33,75,https://github.com/marcopeix/MachineLearningModelDeploymentwithStreamlit,"on Aug 13, 2023"
+aailabkaist,Introduction-to-Artificial-Intelligence-Machine-Learning,Apache 2.0 License,Python,158,51,https://github.com/aailabkaist/Introduction-to-Artificial-Intelligence-Machine-Learning,"on Dec 9, 2019"
+edualgo,Grokking-Machine-Learning,This repo aims to contain different machine learning use cases along with the descriptions to the model architectures,Python,69,72,https://github.com/edualgo/Grokking-Machine-Learning,"on Dec 6, 2022"
+anooshac,machine-learning-projects,,Python,61,49,https://github.com/anooshac/machine-learning-projects,"on Jan 21, 2018"
+jostmey,NakedTensor,Bare bone examples of machine learning in TensorFlow,Python,2.4k,51,https://github.com/jostmey/NakedTensor,"on Mar 15, 2017"
+kojino,Harvard-Robust-Machine-Learning,Repository for CS282R: Robust Machine Learning at Harvard University.,Python,73,145,https://github.com/kojino/Harvard-Robust-Machine-Learning,"on Mar 30, 2018"
+qinhanmin2014,machine-learning-Andrew-Ng,Machine learning online course from Andrew Ng.,Python,76,60,https://github.com/qinhanmin2014/machine-learning-Andrew-Ng,"on Mar 11, 2019"
+nl8590687,Machine-Learning-Tutorial-Chinese,专门面向中文用户的机器学习相关的学习资料大集合,Python,152,58,https://github.com/nl8590687/Machine-Learning-Tutorial-Chinese,"on Jan 22, 2021"
+argonne-lcf,ATPESC_MachineLearning,Lecture and hands-on material for Track 8- Machine Learning of Argonne Training Program on Extreme-Scale Computing,LLVM,45,44,https://github.com/argonne-lcf/ATPESC_MachineLearning,on Sep 5
+roguesir,DL-ML-project,Deep Learning and Machine Learning project,LLVM,122,31,https://github.com/roguesir/DL-ML-project,"on Aug 28, 2018"
+neoml-lib,neoml,Machine learning framework for both deep learning and traditional algorithms,LLVM,793,95,https://github.com/neoml-lib/neoml,2 days ago
+4GeeksAcademy,algorithm-optimization-project-machine-learning,,LLVM,1,126,https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning,on Mar 18
+mejihero,Machine-Learning-Deployment-Tutorials,Sample end to end projects from data collection to putting models into production,LLVM,3,528,https://github.com/mejihero/Machine-Learning-Deployment-Tutorials,"on Oct 13, 2019"
+IBM,federated-learning-lib,A library for federated learning (a distributed machine learning process) in an enterprise environment.,LLVM,518,238,https://github.com/IBM/federated-learning-lib,on Sep 18
+kendricktan,suiron,Machine Learning for RC Cars,LLVM,706,140,https://github.com/kendricktan/suiron,"on Oct 8, 2016"
+hujinsen,python-machine-learning,吴恩达（Andrew Ng）在coursera的机器学习课程习题的python实现,LLVM,132,77,https://github.com/hujinsen/python-machine-learning,"on Jun 23, 2019"
+plexe-ai,plexe,✨ Build a machine learning model from a prompt,LLVM,2.3k,37,https://github.com/plexe-ai/plexe,on Aug 20
+Tkag0001,AI_and_Machine_Learning_for_Coders,"This repository is based on AI and Machine learning for Coders book, I note my knowledge I have learned from the book in Vietnamese.",LLVM,237,215,https://github.com/Tkag0001/AI_and_Machine_Learning_for_Coders,on May 1
+h2oai,mli-resources,H2O.ai Machine Learning Interpretability Resources,Jupyter Notebook,490,57,https://github.com/h2oai/mli-resources,"on Dec 12, 2020"
+Snowflake-Labs,sfguide-getting-started-machine-learning,,Jupyter Notebook,48,130,https://github.com/Snowflake-Labs/sfguide-getting-started-machine-learning,"on Nov 16, 2023"
+kahramankostas,Anomaly-Detection-in-Networks-Using-Machine-Learning,A thesis submitted for the degree of Master of Science in Computer Networks and Security,Jupyter Notebook,233,90,https://github.com/kahramankostas/Anomaly-Detection-in-Networks-Using-Machine-Learning,"on Nov 16, 2022"
+42-AI,bootcamp_python,Bootcamp to learn Python for Machine Learning,Jupyter Notebook,449,73,https://github.com/42-AI/bootcamp_python,on Feb 19
+WangYang-wy,Machine-Learning-Foundations-and-Techniques,Coursera 机器学习基石 机器学习技法 林轩田 课堂PPT、作业及课堂笔记。,Jupyter Notebook,163,131,https://github.com/WangYang-wy/Machine-Learning-Foundations-and-Techniques,"on Aug 14, 2018"
+RubensZimbres,Repo-2017,"My first Python repo with codes in Machine Learning, NLP and Deep Learning with Keras and Theano",Jupyter Notebook,1.2k,52,https://github.com/RubensZimbres/Repo-2017,"on Dec 7, 2021"
+anthonyng2,udemy-the-complete-machine-learning-course-with-python,Please see the readme file for more info,Jupyter Notebook,108,678,https://github.com/anthonyng2/udemy-the-complete-machine-learning-course-with-python,"on Jun 22, 2019"
+agconti,kaggle-titanic,"A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data munging, analysis, and visualization…",Jupyter Notebook,931,131,https://github.com/agconti/kaggle-titanic,"on Apr 28, 2024"
+jiajia0,MachineLearningTopic,机器学习笔记,Jupyter Notebook,30,684,https://github.com/jiajia0/MachineLearningTopic,"on Sep 12, 2019"
+MonicaGS,Machine-Learning-A-Z,Machine learning A-Z course from Udemy,Jupyter Notebook,42,36,https://github.com/MonicaGS/Machine-Learning-A-Z,"on Aug 23, 2018"
